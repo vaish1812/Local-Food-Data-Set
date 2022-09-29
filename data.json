@@ -10,5 +10,18 @@
         "rating": "4.2",
         "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
         "location": "https://g.page/misal-katta-and-cornor-crunch?share"
+    },
+    {
+        "id": 2,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Solapur",
+        "food" : "vadapav",
+        "type": "Bread",
+        "foodEnergy": "289 cal",
+        "rating": "4.1",
+        "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
+        "location": "https://www.justdial.com/Solapur/Solapur-Vada-Pav-Near-Sangameswar-College-Solapur-HO/9999PX217-X217-170304171018-J6Q8_BZDET"
     }
+    
 ]
