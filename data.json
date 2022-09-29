@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "placeOfOrigin": "India",
+        "region": "Kolhapur",
+        "city": "Sangli",
+        "food" : "Bhadang, misalpav",
+        "type": "curry and bread",
+        "foodEnergy": "289 cal",
+        "rating": "4.2",
+        "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
+        "location": "https://g.page/misal-katta-and-cornor-crunch?share"
+    }
+]
