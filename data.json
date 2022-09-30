@@ -62,5 +62,19 @@
         "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
         "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
 
-    }
+    },
+
+      {
+        "id": 6,
+        "placeOfOrigin": "India",
+        "region": "JAMMU",
+        "city": "JAMMU",
+        "food" : "RAJMA CHAwAL",
+        "type": "CURRY AND RICE",
+        "foodEnergy": "289 cal",
+        "rating": "4.2",
+        "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Punjabi_Rajma_Masala_Recipe_-_Rajma_Chawal_Spiced_Red_Kidney_Beans_Curry_4.jpg",
+        "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
+    },
+
 ]
