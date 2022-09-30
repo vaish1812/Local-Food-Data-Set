@@ -22,7 +22,7 @@
         "rating": "4.1",
         "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
         "location": "https://www.justdial.com/Solapur/Solapur-Vada-Pav-Near-Sangameswar-College-Solapur-HO/9999PX217-X217-170304171018-J6Q8_BZDET"
-    }
+    },
     {
         "id": 3,
         "placeOfOrigin": "India",
@@ -34,5 +34,17 @@
         "rating": "4.5",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
+    },
+     {
+        "id": 5,
+        "placeOfOrigin": "India",
+        "region": "khandesh",
+        "city": "khandesh",
+        "food" : "Thalipeet",
+        "type": "Regional Food",
+        "foodEnergy": " 88 cal",
+        "rating": "4.5",
+        "image": "https://cdn.cdnparenting.com/articles/2020/03/07132448/Spring-Onion-Thalipeeth-Recipe.jpg",
+        "location": "https://www.google.com/maps/place/Khandesh/@21.130793,72.9426164,7z/data=!3m1!4b1!4m5!3m4!1s0x3bdf3145406cff01:0xdc860e77d833a55e!8m2!3d21.0050629!4d75.5610015?hl=en"
     }
 ]
