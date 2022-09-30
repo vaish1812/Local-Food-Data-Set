@@ -311,7 +311,7 @@
         "rating": "4.5",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
-},
+     },
     {
         "id": 25,
         "placeOfOrigin": "India",
@@ -384,6 +384,19 @@
         "rating": "4.5",
         "image": "https://www.google.com/search?q=sainath+vada+pav+karad&rlz=1C1FKPE_enIN974IN974&sxsrf=ALiCzsZC_yPte_i9kduJEGe0kiCn3rPJgA:1664558691904&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiopaeshL36AhXy-DgGHWJaBM0Q_AUoBHoECAMQBg&biw=1229&bih=571&dpr=1.56",
         "location": "https://goo.gl/maps/iqS2CedQU2Sd1MDEA"
+     },
+     {
+        "id": 31,
+        "placeOfOrigin": "India",
+        "region": "Goa",
+        "city": "Panji",
+        "food" : "fish fry",
+        "type": "Street Food",
+        "foodEnergy": " 240 cal",
+        "rating": "4.5",
+        "image": "https://www.google.co.in/url?sa=i&url=http%3A%2F%2Fwww.eathealthierrecipes.com%2Findex.php%2F2016%2F12%2F07%2Findian-grilled-fish-steak-tawa-fish-fry%2F&psig=AOvVaw37uDzGHkH8xY3o6qY3cA6A&ust=1664645056962000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDhkaSEvfoCFQAAAAAdAAAAABAM",
+        "location": "https://www.google.co.in/maps/dir//Ritz+Classic+Panjim,+Building,+1st+Floor,+Wagle+Vision,+18th+June+Rd,+Ozari,+Panaji,+Goa+403001/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bbfc0892b7aac1b:0x711b75fe40723402?sa=X&ved=2ahUKEwi04tHehL36AhWjieYKHeaYAKgQ48ADegQIDRAK"
      }
   
 ]
+
