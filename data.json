@@ -35,7 +35,6 @@
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
     },
-
      {
         "id": 4,
         "placeOfOrigin": "India",
@@ -73,20 +72,31 @@
         "image": "https://cdn.cdnparenting.com/articles/2020/03/07132448/Spring-Onion-Thalipeeth-Recipe.jpg",
         "location": "https://www.google.com/maps/place/Khandesh/@21.130793,72.9426164,7z/data=!3m1!4b1!4m5!3m4!1s0x3bdf3145406cff01:0xdc860e77d833a55e!8m2!3d21.0050629!4d75.5610015?hl=en
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
-
     },
     {
         "id": 7,
         "placeOfOrigin": "India",
-        "region": "Vidarbha",
-        "city": "Shegaon",
-        "food" : "Kachori",
-        "type": "Maida and Dal",
-        "foodEnergy": "159 cal",
+        "region": "Pune",
+        "city": "Pune",
+        "food" : "icecream",
+        "type": "Street Food",
+        "foodEnergy": "289 cal",
         "rating": "4.5",
-        "image": "https://www.google.com/search?q=kachori&tbm=isch&source=iu&ictx=1&vet=1&fir=RC-asdkr0RrXrM%252C2rlTdmSe7SsBeM%252C_%253B4GXjO5QOpcIzkM%252Cm_GvNtP75LwCgM%252C_%253Btds4Mu1IyaeoBM%252CcdG_QFiNUxTECM%252C_%253BPShwf_Auing2AM%252Ce-l5kKDEUhjxpM%252C_%253BxQXqZasjrmErIM%252CIWaHIFSZ8LIDbM%252C_%253B-1pXZ6knT3RLbM%252C9OSjwwubMjpvhM%252C_&usg=AI4_-kTMaQ3M323G5LhZS2hr1T0-JRoEKA&sa=X&ved=2ahUKEwiQgszFg736AhXD23MBHYb4AGYQ_h16BAheEAE#imgrc=tds4Mu1IyaeoBM",
-        "location": "https://g.co/kgs/8NML1c"
-    },
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
+        "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
+     },
+     {
+        "id": 8,
+        "placeOfOrigin": "India",
+        "region": "Hinganghat",
+        "city": "Hinganghat",
+        "food" : "aloo finger",
+        "type": "Street Food",
+        "foodEnergy": "150 cal",
+        "rating": "4.5",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnishamadhulika.com%2Fen%2F1631-crispy-potato-fingers.html&psig=AOvVaw0aYuM1wbTuIAKyy2jS1VeT&ust=1664645192860000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDe7-GEvfoCFQAAAAAdAAAAABAD",
+        "location": "https://goo.gl/maps/FU95tJn2zx97zSk69"
+     }
     
      {
         "id": 8,
