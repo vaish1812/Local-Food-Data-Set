@@ -23,45 +23,22 @@
         "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
         "location": "https://www.justdial.com/Solapur/Solapur-Vada-Pav-Near-Sangameswar-College-Solapur-HO/9999PX217-X217-170304171018-J6Q8_BZDET"
     },
+   
     {
         "id": 3,
         "placeOfOrigin": "India",
-        "region": "Mumbai",
-        "city": "Mumbai",
-        "food" : "Vada Pav, Misalpav",
-        "type": "Street Food",
-        "foodEnergy": "289 cal",
-        "rating": "4.5",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
-        "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
-    },
-     {
-        "id": 4,
-        "placeOfOrigin": "India",
-        "region": "Solapur",
-        "city": "Solapur",
-        "food" : "Shenga-Chutney",
-        "type": "Homemade",
-        "foodEnergy": "43 cal",
-        "rating": "4",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FUMADIS-Hand-POUNDED-SHENGA-Chutney%2Fdp%2FB07NCVNWM8&psig=AOvVaw0eJ2h3dSImY6PXSVVYA6jB&ust=1664643780949000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiO4Lv_vPoCFQAAAAAdAAAAABAF",
-        "location": "https://goo.gl/maps/A8iNyVH58F4BctcD6"
-        },
-
-    {
-        "id": 5,
-        "placeOfOrigin": "India",
-        "region": "Sangli",
-        "city": "Sangli",
+        "region": "kolhapur",
+        "city": "kolhapur",
         "food" : "Misal",
         "type": "Street Food",
         "foodEnergy": "156 cal",
         "rating": "4",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fmisal-katta-com-locality-vishrambag-sangli-111094&psig=AOvVaw3x0AKG1XURbDDxSewteJhl&ust=1664643290430000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjFndP9vPoCFQAAAAAdAAAAABAE",
+        "image": https://www.google.com/search?q=kasaba+bawada+misal&rlz=1C1FKPE_enIN974IN974&sxsrf=ALiCzsa5ZAKQoXHvJvkfY__neUOXQBE_Uw:1664557769837&source=lnms&tbm=isch&sa=X&ved=2ahUKEwii7ND0gL36AhViSXwKHUNhDeoQ_AUoA3oECAIQBQ&biw=1229&bih=571&dpr=1.56#imgrc=RTbmqkDyNTbXWM",
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
+
     },
      {
-        "id": 6,
+        "id": 4,
         "placeOfOrigin": "India",
         "region": "khandesh",
         "city": "khandesh",
@@ -73,19 +50,19 @@
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
     },
     {
-        "id": 7,
+        "id": 5,
         "placeOfOrigin": "India",
-        "region": "Pune",
-        "city": "Pune",
-        "food" : "icecream",
+        "region": "kolhapur",
+        "city": "kolhapur",
+        "food" : "ice cream",
         "type": "Street Food",
-        "foodEnergy": "289 cal",
-        "rating": "4.5",
+        "foodEnergy": "207 cal",
+        "rating": "4"
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
      },
      {
-        "id": 8,
+        "id": 6,
         "placeOfOrigin": "India",
         "region": "Hinganghat",
         "city": "Hinganghat",
@@ -98,7 +75,7 @@
      },
     
      {
-        "id": 9,
+        "id": 7,
         "placeOfOrigin": "India",
         "region": "solapur",
         "city": "barshi",
@@ -111,7 +88,7 @@
     },
     
     {
-        "id": 10,
+        "id": 8,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "barshi",
@@ -124,7 +101,7 @@
 
     },
      {
-        "id": 11,
+        "id": 9,
         "placeOfOrigin": "India",
         "region": "Wardha",
         "city": "Wardha",
@@ -138,7 +115,7 @@
     },
 
       {
-        "id": 12,
+        "id": 10,
         "placeOfOrigin": "India",
         "region": "JAMMU",
         "city": "JAMMU",
