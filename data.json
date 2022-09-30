@@ -35,6 +35,7 @@
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
     },
+
      {
         "id": 4,
         "placeOfOrigin": "India",
@@ -59,31 +60,20 @@
         "rating": "4",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fmisal-katta-com-locality-vishrambag-sangli-111094&psig=AOvVaw3x0AKG1XURbDDxSewteJhl&ust=1664643290430000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjFndP9vPoCFQAAAAAdAAAAABAE",
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
-    },
-     {
+
+    }
+    
+    {
         "id": 6,
         "placeOfOrigin": "India",
-        "region": "khandesh",
-        "city": "khandesh",
-        "food" : "Thalipeet",
-        "type": "Regional Food",
-        "foodEnergy": " 88 cal",
-        "rating": "4.5",
-        "image": "https://cdn.cdnparenting.com/articles/2020/03/07132448/Spring-Onion-Thalipeeth-Recipe.jpg",
-        "location": "https://www.google.com/maps/place/Khandesh/@21.130793,72.9426164,7z/data=!3m1!4b1!4m5!3m4!1s0x3bdf3145406cff01:0xdc860e77d833a55e!8m2!3d21.0050629!4d75.5610015?hl=en
-        "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
-    },
-    {
-        "id": 7,
-        "placeOfOrigin": "India",
-        "region": "Pune",
-        "city": "Pune",
-        "food" : "icecream",
+        "region": "Akola",
+        "city": "Akola",
+        "food" : "PaniPuri",
         "type": "Street Food",
-        "foodEnergy": "289 cal",
+        "foodEnergy": "329 calories",
         "rating": "4.5",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
-        "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
-     }
-    
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftouch.facebook.com%2Fakola.paanipuri%2Fphotos%2Fa.251598281541742.64472.190432387658332%2F1169171606451067%2F%3Ftype%3D3%26__tn__%3D-R&psig=AOvVaw1_QbrniHK2QJyRe_4pAqJ9&ust=1664644246118000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjc-NWBvfoCFQAAAAAdAAAAABAD",
+        "location": "https://g.co/kgs/JF6pzH"
+
+    }
 ]
