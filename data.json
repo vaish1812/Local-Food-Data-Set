@@ -34,5 +34,17 @@
         "rating": "4.5",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
+    },
+{
+        "id": 4,
+        "placeOfOrigin": "India",
+        "region": "Pune",
+        "city": "Pune",
+        "food" : "icecream",
+        "type": "Street Food",
+        "foodEnergy": "289 cal",
+        "rating": "4.5",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
+        "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
     }
 ]
