@@ -161,17 +161,17 @@
         "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Punjabi_Rajma_Masala_Recipe_-_Rajma_Chawal_Spiced_Red_Kidney_Beans_Curry_4.jpg",
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
     },
-    {
-        "id": 8,
+     {
+        "id": 14,
         "placeOfOrigin": "India",
-        "region": "",
-        "city": "Pune",
-        "food" : "Sujata Mastani",
-        "type": "fruit juice and icecream",
-        "foodEnergy": "59 cal",
-        "rating": "4.5",
-        "image": "https://d2r4vjqv0e4e2o.cloudfront.net/blog/wp-content/uploads/2019/05/30104436/sujata-mastani-in-pune.jpg",
-        "location": "https://g.co/kgs/8NML1c"
-     }
+        "region": "vidarbha",
+        "city": "Gondia",
+        "food" : "Pizza",
+        "type": "FastFood",
+        "foodEnergy": "300 cal",
+        "rating": "5.0",
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/11/pizza-recipe.jpg",
+        "location": "https://www.google.com/maps/place/21%C2%B027'52.3%22N+80%C2%B011'32.4%22E/@21.4645168,80.1923312,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x5d80c734703f9c49!8m2!3d21.4645168!4d80.1923312"
+    }
 
 ]
