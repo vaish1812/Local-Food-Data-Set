@@ -173,5 +173,18 @@
         "image": "https://d2r4vjqv0e4e2o.cloudfront.net/blog/wp-content/uploads/2019/05/30104436/sujata-mastani-in-pune.jpg",
         "location": "https://g.co/kgs/8NML1c"
      }
+    
+        {
+        "id": 9,
+        "placeOfOrigin": "India",
+        "region": "Borivali",
+        "city": "Mumbai",
+        "food" : "Veg Handi Fry",
+        "type": "Vegetable",
+        "foodEnergy": "59 cal",
+        "rating": "4.9",
+        "image": "https://www.google.com/search?q=veg+handi+fry&sxsrf=ALiCzsbq5oO2s8evkeVVxcUBW06Pgk18Kw:1664563859242&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjSyaTMl736AhUWTmwGHW8FBCAQ_AUoAXoECAIQAw&biw=1292&bih=636&dpr=1#imgrc=3KEp0Z2-Wy8y4M",
+        "location": "https://www.google.com/maps/place/Borivali,+Mumbai,+Maharashtra/data=!4m2!3m1!1s0x3be7b128b333e163:0x985640540577af7e?sa=X&ved=2ahUKEwiolNKFmL36AhUgcGwGHVylClsQ8gF6BAhuEAE"
+     }
 
 ]
