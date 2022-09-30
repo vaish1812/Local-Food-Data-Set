@@ -316,6 +316,19 @@
         "location": "https://goo.gl/maps/39YATRMFLVSxkz5h7"
      },
 
+    {
+        "id": 18,
+        "placeOfOrigin": "India",
+        "region": "Rajasthan",
+        "city": "-",
+        "food" : "Daal bati churma",
+        "type": "-",
+        "foodEnergy": "1130 cal",
+        "rating": "4.7",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.outlookindia.com%2Fposhan%2F267&psig=AOvVaw0DLFRVU4mgkxHG2v9XKGf7&ust=1664651484691000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODOmp2cvfoCFQAAAAAdAAAAABAH",
+        "location": "-"
+     },
+
 {
         "id": 29,
         "placeOfOrigin": "India",
