@@ -162,7 +162,7 @@
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
     },
     {
-        "id": 8,
+        "id": 14,
         "placeOfOrigin": "India",
         "region": "",
         "city": "Pune",
@@ -172,6 +172,18 @@
         "rating": "4.5",
         "image": "https://d2r4vjqv0e4e2o.cloudfront.net/blog/wp-content/uploads/2019/05/30104436/sujata-mastani-in-pune.jpg",
         "location": "https://g.co/kgs/8NML1c"
+     },
+    {
+        "id": 14,
+        "placeOfOrigin": "India",
+        "region": "Vidharbha",
+        "city": "Nagpur",
+        "food" : "Pizza",
+        "type": "Maida and toppings",
+        "foodEnergy": "150 cal",
+        "rating": "3.9",
+        "image": "https://www.google.com/maps/place/La+Pino'z+Pizza/@21.1482206,79.133641,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a%3Dw114-h86-k-no!7i4000!8i3000!4m5!3m4!1s0x3bd4c75d2ac83481:0xe69aadf67f9277!8m2!3d21.1483969!4d79.1336448",
+        "location": "https://goo.gl/maps/39YATRMFLVSxkz5h7"
      }
 
 ]
