@@ -128,16 +128,16 @@
     },
     
     {
-        "id": 10,
+        "id": 15,
         "placeOfOrigin": "India",
-        "region": "Maratheada",
+        "region": "Marathwada",
         "city": "Ambajogai",
         "food" : "Fried Rice",
         "type": "Chutney & Rice",
         "foodEnergy": "300 cal",
         "rating": "4.2",
         "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ffried-rice.jpg&imgrefurl=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fvegetable-fried-rice-indian-style%2F&tbnid=sqMbhG3ljYJIQM&vet=12ahUKEwi998T1kb36AhXundgFHdObDLUQMygBegUIARCSAg..i&docid=hOmYYwqmzrTZmM&w=1200&h=900&q=fried%20rice&ved=2ahUKEwi998T1kb36AhXundgFHdObDLUQMygBegUIARCSAg",
-        "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
+        "location": "https://www.tripadvisor.in/Restaurants-g12444866-Ambajogai_Beed_District_Maharashtra.html"
     }
     
 
