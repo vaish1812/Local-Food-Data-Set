@@ -73,7 +73,7 @@
         "location": "https://goo.gl/maps/A8iNyVH58F4BctcD6"
     },
      {
-        "id": 6,
+        "id": 7,
         "placeOfOrigin": "India",
         "region": "khandesh",
         "city": "khandesh",
@@ -85,7 +85,7 @@
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
      },
     {
-        "id": 7 ,
+        "id": 8 ,
         "placeOfOrigin": "India",
         "region": "Pune",
         "city": "Pune",
@@ -97,20 +97,31 @@
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
      },
      {
-        "id": 8,
+        "id": 9,
         "placeOfOrigin": "India",
+        "region": "konkan coast",
+        "city": "Mumbai",
+        "food" : "vada pav",
+        "type": "bread,aalubonda",
+        "foodEnergy": "400 cal",
+        "rating": "4.0",
         "image": "https://www.google.com/search?q=kachori&tbm=isch&source=iu&ictx=1&vet=1&fir=RC-asdkr0RrXrM%252C2rlTdmSe7SsBeM%252C_%253B4GXjO5QOpcIzkM%252Cm_GvNtP75LwCgM%252C_%253Btds4Mu1IyaeoBM%252CcdG_QFiNUxTECM%252C_%253BPShwf_Auing2AM%252Ce-l5kKDEUhjxpM%252C_%253BxQXqZasjrmErIM%252CIWaHIFSZ8LIDbM%252C_%253B-1pXZ6knT3RLbM%252C9OSjwwubMjpvhM%252C_&usg=AI4_-kTMaQ3M323G5LhZS2hr1T0-JRoEKA&sa=X&ved=2ahUKEwiQgszFg736AhXD23MBHYb4AGYQ_h16BAheEAE#imgrc=tds4Mu1IyaeoBM",
         "location": "https://g.co/kgs/8NML1c"
     },
     {
-        "type": "Maida and Dal" ,
+	 "id": 10,
+        "placeOfOrigin": "India",
+        "region": "konkan coast",
+        "city": "Mumbai",
+        "food" : "daba",
+        "type": "indian mess food" ,
         "foodEnergy": "159 cal",
         "rating": "4.5",
         "image": "https://www.google.com/search?q=kachori&tbm=isch&source=iu&ictx=1&vet=1&fir=RC-asdkr0RrXrM%252C2rlTdmSe7SsBeM%252C_%253B4GXjO5QOpcIzkM%252Cm_GvNtP75LwCgM%252C_%253Btds4Mu1IyaeoBM%252CcdG_QFiNUxTECM%252C_%253BPShwf_Auing2AM%252Ce-l5kKDEUhjxpM%252C_%253BxQXqZasjrmErIM%252CIWaHIFSZ8LIDbM%252C_%253B-1pXZ6knT3RLbM%252C9OSjwwubMjpvhM%252C_&usg=AI4_-kTMaQ3M323G5LhZS2hr1T0-JRoEKA&sa=X&ved=2ahUKEwiQgszFg736AhXD23MBHYb4AGYQ_h16BAheEAE#imgrc=tds4Mu1IyaeoBM",
         "location": "https://g.co/kgs/8NML1c"
     },
      {
-        "id": 10,
+        "id": 11,
         "placeOfOrigin": "India",
         "region": "konkan coast",
         "city": "Mumbai",
@@ -125,7 +136,7 @@
     
 
     {
-        "id": 8,
+        "id": 12,
         "placeOfOrigin": "India",
         "region": "Marathwada",
         "city": "Aurangabad",
@@ -138,7 +149,7 @@
         },
       
      {
-        "id": 9,
+        "id": 13,
         "placeOfOrigin": "India",
         "region": "Hinganghat",
         "city": "Hinganghat",
@@ -150,7 +161,7 @@
         "location": "https://goo.gl/maps/FU95tJn2zx97zSk69"
      },
     {
-        "id": 8,
+        "id": 14,
         "placeOfOrigin": "India",
         "region": "solapur",
         "city": "barshi",
@@ -163,7 +174,7 @@
     },
 
 {
-        "id": 10,
+        "id": 15,
         "placeOfOrigin": "India",
         "region": "vidarbha",
         "city": "Ramtek",
@@ -175,7 +186,7 @@
         "location": "https://www.google.co.in/maps/place/Jamnagarwala+Sweets+Namkin/@21.3938816,79.3271324,3a,77.2y,90t/data=!3m8!1e2!3m6!1sAF1QipN-mWvn56iIgeRVK-jwcn-CWEyVKRsNuMpRHgJw!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-mWvn56iIgeRVK-jwcn-CWEyVKRsNuMpRHgJw%3Dw203-h172-k-no!7i720!8i612!4m7!3m6!1s0x3bd4d3a11a70b8df:0x63ebe07a9a94a11d!8m2!3d21.3940429!4d79.3270923!14m1!1BCgIgAQ"
 },
         {
-        "id": 10,
+        "id": 16,
         "placeOfOrigin": "India",
         "region": "Pune",
         "city": "Pune",
@@ -187,7 +198,7 @@
         "location":"https://www.mapsofindia.com/india/where-is-pune.html"
     },
      {
-        "id": 10,
+        "id": 17,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "Sangli",
@@ -199,7 +210,7 @@
         "location": "https://g.page/khandoli"
     },
     {
-        "id": 10,
+        "id": 18,
         "placeOfOrigin": "India",
         "region": "Ahmadnagar",
         "city": "Shirdi",
@@ -213,7 +224,7 @@
 
        
      {
-        "id": 10,
+        "id": 19,
         "placeOfOrigin": "India",
         "region": "Vidarbha",
         "city": "Nagpur",
@@ -225,7 +236,7 @@
         "location": "https://www.google.co.in/maps/place/Saburi+Tarri+Poha+Misal+Centre/@21.1445771,79.0939083,17z/data=!3m1!4b1!4m5!3m4!1s0x3bd4c0b865c3174d:0x28b62eca0ea8bcf1!8m2!3d21.1445974!4d79.0960986"
     },
        {
-        "id": 11,
+        "id": 20,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "Sangli",
@@ -238,7 +249,7 @@
     },
     {
 
-        "id": 12,
+        "id": 21,
 
         "placeOfOrigin": "India",
         "region": "Kolhapur",
@@ -252,7 +263,7 @@
     },
 
       {
-        "id": 10,
+        "id": 22,
         "placeOfOrigin": "India",
         "region": "delhi",
         "city": "new delhi",
@@ -265,7 +276,7 @@
     },
 
     {
-        "id": 9,
+        "id": 23,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Mumbai",
@@ -278,7 +289,7 @@
 
      },
      {
-        "id": 13,
+        "id": 24,
         "placeOfOrigin": "India",
         "region": "Hyderabad",
         "city": "Hyderabad",
@@ -290,7 +301,7 @@
         "location": "https://goo.gl/maps/eN1up85WudjXSRXT6"
     },
     {
-        "id": 6,
+        "id": 25,
         "placeOfOrigin": "India",
         "region": "Nagpur",
         "city": "Umrer",
@@ -302,7 +313,7 @@
         "location": "https://www.google.com/maps/search/dm+hotel+umred/@20.8523472,79.310395,16z/data=!3m1!4b1?hl=en"
     },
       {
-        "id": 14,
+        "id": 26,
         "placeOfOrigin": "India",
         "region": "JAMMU",
         "city": "JAMMU",
@@ -314,7 +325,7 @@
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
     },
           {
-        "id": 11,
+        "id": 27,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Nashik",
@@ -326,7 +337,7 @@
         "location": "Nashik"
     },    
     {
-        "id": 15,
+        "id": 28,
         "placeOfOrigin": "India",
         "region": "Marathwada",
         "city": "Ambajogai",
@@ -338,7 +349,7 @@
         "location": "https://www.tripadvisor.in/Restaurants-g12444866-Ambajogai_Beed_District_Maharashtra.html"
     },
     {
-       "id": 13,
+       "id": 29,
        "placeOfOrigin":"India",
        "region": "Maharashtra",
         "city":"Maharashtra",
@@ -350,7 +361,7 @@
         "location":"https://timesofindia.indiatimes.com/travel/eating-out/8-best-places-in-mumbai-to-have-delicious-pav-bhaji/articleshow/60408602.cms"
     },
       {
-        "id": 11,
+        "id": 30,
         "placeOfOrigin": "India",
         "region": "UP",
         "city": "kANPUR",
@@ -362,7 +373,7 @@
         "location": "https://www.karthfoodfactory.com/best-food-places-in-kanpur/"
     },
  {
-        "id": 15,
+        "id": 31,
         "placeOfOrigin": "India",
         "region": "JAMMU",
         "city": "kashmir",
@@ -374,7 +385,7 @@
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
     },
      {
-        "id": 14,
+        "id": 32,
         "placeOfOrigin": "India",
         "region": "vidarbha",
         "city": "Gondia",
@@ -387,7 +398,7 @@
 
     },
     {
-        "id": 14,
+        "id": 33,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Mumbai",
@@ -399,7 +410,7 @@
         "location": "https://www.google.com/maps/@16.8541892,74.6049057,15z"
         },
         {
-        "id": 14,
+        "id": 34,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Sangli",
@@ -411,7 +422,7 @@
         "location": "https://www.google.com/search?q=sangli%20dabeli%20shop&rlz=1C1CHBD_enIN959IN959&oq=sangli+dabeli+shop&aqs=chrome..69i57j33i160l3.6425j0j4&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:9&tbm=lcl&sxsrf=ALiCzsa6J2IwvHOqmvfpwRFXh8heKiFRvw:1664562607426&rflfq=1&num=10&rldimm=7860654891063868071&lqi=ChJzYW5nbGkgZGFiZWxpIHNob3BaFCISc2FuZ2xpIGRhYmVsaSBzaG9wkgEKcmVzdGF1cmFudKoBHwoKL20vMGRsbjJ0NxABKg8iC2RhYmVsaSBzaG9wKEA&ved=2ahUKEwit5K_3kr36AhUwB7cAHcPRDUYQvS56BAgIEAc&sa=X&rlst=f#rlfi=hd:;si:7860654891063868071,l,ChJzYW5nbGkgZGFiZWxpIHNob3BaFCISc2FuZ2xpIGRhYmVsaSBzaG9wkgEKcmVzdGF1cmFudKoBHwoKL20vMGRsbjJ0NxABKg8iC2RhYmVsaSBzaG9wKEA;mv:[[16.8662428,74.6136269],[16.8384265,74.5519269]]"
     },
     {
-      "id": 14,
+      "id": 35,
       "placeOfOrigin": "India",
         "region": "PUNJAB",
         "city": "Chandigarh",
@@ -423,7 +434,7 @@
         "location": "https://www.google.com/search?q=where%20to%20get%20tasty%20paratha%20in%20punjab&rlz=1C1YTUH_enIN933IN933&sxsrf=ALiCzsaS6qu2fHZHeQwZiB_SbSMTYiQaOA:1664562928194&ei=nzY3Y6DFMaqt4-EPmbWC6Ak&ved=2ahUKEwip8qmQlL36AhV-9DgGHYeYDq0QvS56BAgbEAE&uact=5&oq=where+to+get+tasty+paratha+in+punjab&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEKABEAoyBwghEKABEAoyBAghEBUyCAghEB4QFhAdOgcIIxDqAhAnOgQIIxAnOgUIABCRAjoLCAAQgAQQsQMQgwE6CwguEIAEELEDEIMBOgQIABBDOgoIABCxAxCDARBDOggIABCABBCxAzoICAAQsQMQgwE6BQgAEIAEOgYIABAKEEM6CAguEIAEELEDOggILhDUAhCRAjoKCAAQgAQQhwIQFDoLCC4QgAQQsQMQ1AI6CwgAEIAEELEDEMkDOggIABCABBDJAzoJCAAQHhDJAxAWOgYIABAeEBY6BQghEKABOgoIIRAeEA8QFhAdSgQIQRgASgQIRhgAUIgFWOZSYLhVaAFwAXgCgAGUBYgBuUSSAQ0wLjEwLjE5LjQuMS4xmAEAoAEBsAEKwAEB&sclient=gws-wiz&tbs=lf:1,lf_ui:9&tbm=lcl&rflfq=1&num=10&rldimm=4045368908257758807&lqi=CiR3aGVyZSB0byBnZXQgdGFzdHkgcGFyYXRoYSBpbiBwdW5qYWJIlcPQ7YevgIAIWjoQABABEAIQAxAEEAUQBhgDGAQYBiIkd2hlcmUgdG8gZ2V0IHRhc3R5IHBhcmF0aGEgaW4gcHVuamFikgEScHVuamFiaV9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJKTW05bE0zSkJSUkFCqgEtCgkvbS8wNng2ZDcQASoeIhp3aGVyZSB0byBnZXQgdGFzdHkgcGFyYXRoYSgA&phdesc=NYSNqOAUwXI&sa=X&rlst=f#rlfi=hd:;si:4045368908257758807,l,CiR3aGVyZSB0byBnZXQgdGFzdHkgcGFyYXRoYSBpbiBwdW5qYWJIlcPQ7YevgIAIWjoQABABEAIQAxAEEAUQBhgDGAQYBiIkd2hlcmUgdG8gZ2V0IHRhc3R5IHBhcmF0aGEgaW4gcHVuamFikgEScHVuamFiaV9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJKTW05bE0zSkJSUkFCqgEtCgkvbS8wNng2ZDcQASoeIhp3aGVyZSB0byBnZXQgdGFzdHkgcGFyYXRoYSgA,y,NYSNqOAUwXI;mv:[[32.117923,78.8418676],[15.9867164,72.16984579999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u5!2m2!5m1!1sgcid_3north_1indian_1restaurant!1m4!1u5!2m2!5m1!1sgcid_3vegetarian_1restaurant!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e5!2m1!1e3!3sIAEqAklO,lf:1,lf_ui:9"
     },
 {
-        "id": 16,
+        "id": 36,
         "placeOfOrigin": "India",
         "region": "Thane",
         "city": "Thane",
@@ -435,7 +446,7 @@
         "location": "https://www.eazydiner.com/mumbai/mamledar-misal-thane-west-222718/map"
     },
     {
-        "id": 17,
+        "id": 37,
         "placeOfOrigin": "India",
         "region": "pune",
         "city": "Pune",
@@ -448,7 +459,7 @@
      },
     
     {
-        "id": 9,
+        "id": 38,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "Sangli",
@@ -461,7 +472,7 @@
     },
 
     {
-        "id": 10,
+        "id": 39,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "ichalkarnji",
@@ -473,7 +484,7 @@
         "location": "https://www.google.com/maps/place/Ambika+Kat-vada/@16.6931379,74.2411892,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc1003dc76d4fdf:0x82fb585e9c6bb2c2!8m2!3d16.693151!4d74.2433748?hl=en"
      },
     {
-        "id": 18,
+        "id": 40,
         "placeOfOrigin": "India",
         "region": "Vidharbha",
         "city": "Nagpur",
@@ -485,7 +496,7 @@
         "location": "https://goo.gl/maps/39YATRMFLVSxkz5h7"
      },
    {
-        "id": 18,
+        "id": 41,
         "placeOfOrigin": "India",
         "region": "Tamil Nadu",
         "city": "Madurai",
@@ -497,7 +508,7 @@
         "location": "https://www.google.co.in/maps/dir//9.9178667,78.1179292"
     },
       {
-        "id": 18,
+        "id": 42,
         "placeOfOrigin": "India",
         "region": "Vidharbha",
         "city": "Gondia",
@@ -510,7 +521,7 @@
      },
 
     {
-        "id": 17,
+        "id": 43,
         "placeOfOrigin": "India",
         "region": "Sangli",
         "city": "Sangli",
@@ -523,7 +534,7 @@
     },
 
  {
-        "id": 55,
+        "id": 44,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "Sangli",
@@ -536,7 +547,7 @@
 
  },
     {
-        "id": 18,
+        "id": 45,
         "placeOfOrigin": "India",
         "region": "Rajasthan",
         "city": "-",
@@ -549,7 +560,7 @@
      },
 
 {
-        "id": 29,
+        "id": 46,
         "placeOfOrigin": "India",
         "region": "NCR",
         "city": "Delhi",
@@ -561,7 +572,7 @@
         "location": "https://goo.gl/maps/39YATRMFLVSxkz5h7" 
 },
         {
-        "id": 17,
+        "id": 47,
         "placeOfOrigin": "India",
         "region": "Vidharbha",
         "city": "Nagpur",
@@ -574,7 +585,7 @@
 
    },
         {
-        "id": 20,
+        "id": 48,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Nagpur",
@@ -588,7 +599,7 @@
        
 
     {
-        "id": 19,
+        "id": 49,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "Sangli",
@@ -604,7 +615,7 @@
 
      
   {
-        "id": 19,
+        "id": 50,
         "placeOfOrigin": "India",
         "region": "National Capital Region NCR",
         "city": "Delhi",
@@ -617,7 +628,7 @@
      },
 
      {
-        "id": 20,
+        "id": 51,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Nagpur",
@@ -631,7 +642,7 @@
 
 
     {
-        "id": 21,
+        "id": 52,
         "placeOfOrigin": "India",
         "region": "Sangli",
         "city": "Sangli",
@@ -644,7 +655,7 @@
         },
        
       {
-        "id": 22,
+        "id": 53,
         "placeOfOrigin": "India",
 
         "region": "Kolhapur",
@@ -657,7 +668,7 @@
         "location": "https://g.page/misal-katta-and-cornor-crunch?share"
     },
     {
-        "id": 23,
+        "id": 54,
         "placeOfOrigin": "India",
         "region": "Marathwada",
         "city": "Chh. Sambhaji Nagar",
@@ -669,7 +680,7 @@
         "location": "https://goo.gl/maps/LHwGn1CWtmno2r1w7"
      },
      {  
-     "id" : 24,
+     "id" : 55,
         "region": "Pune",
         "city": "Pune",
         "food" : "icecream",
@@ -680,7 +691,7 @@
         "location": "https://g.co/kgs/JF6pzH"
      },
     {
-        "id": 25,
+        "id": 56,
         "placeOfOrigin": "India",
 
         "region": "National Capital Region NCR",
@@ -693,7 +704,7 @@
         "location": "https://www.google.com/search?q=chole+kulche+location&source=lmns&hl=en&sa=X&ved=2ahUKEwiB2u-2nL36AhUJiNgFHe6lD3oQ_AUoAHoECAEQAA"
      },
     {
-        "id": 29,
+        "id": 57,
         "placeOfOrigin": "China",
         "region": "China",
         "city": "Beijing",
@@ -705,7 +716,7 @@
         "location": "https://www.google.com/maps?q=dumplings&source=lmns&bih=726&biw=1536&hl=en&sa=X&ved=2ahUKEwjDr5rXnr36AhXci9gFHQcmDb4Q_AUoBHoECAEQBA"
      },
     {
-        "id": 20,
+        "id": 58,
         "placeOfOrigin": "India",
         "region": "National Capital Region NCR",
         "city": "Delhi",
@@ -717,7 +728,7 @@
         "location": "https://www.google.com/search?q=anda+maggi+location&source=lmns&hl=en&sa=X&ved=2ahUKEwiB2u-2nL36AhUJiNgFHe6lD3oQ_AUoAHoECAEQAA"
     },
         {
-            "id": 37,
+            "id": 59,
         "region": "Kolhapur",
         "city": "Kolhapur",
         "food" : "Tambda Pandra Rassa",
@@ -728,7 +739,7 @@
         "location": "https://www.google.com/maps/place/Hotel+Tambda+Pandhra/@16.7201773,74.2873921,12.25z/data=!4m12!1m6!3m5!1s0x3bc10046cf5db6e5:0xf19cf9780365889!2sHotel+Tambda+Pandhra!8m2!3d16.7044112!4d74.2479733!3m4!1s0x3bc10046cf5db6e5:0xf19cf9780365889!8m2!3d16.7044112!4d74.2479733"
      },
      {
-        "id": 26,
+        "id": 60,
         "placeOfOrigin": "India",
         "region": "Borivali",
         "city": "Mumbai",
@@ -740,7 +751,7 @@
         "location": "https://www.google.com/maps/place/Borivali,+Mumbai,+Maharashtra/data=!4m2!3m1!1s0x3be7b128b333e163:0x985640540577af7e?sa=X&ved=2ahUKEwiolNKFmL36AhUgcGwGHVylClsQ8gF6BAhuEAE"
      },
      {
-        "id": 10,
+        "id": 61,
         "placeOfOrigin": "India",
         "region": "North East",
         "city": "Shillong",
@@ -752,7 +763,7 @@
         "location": "https://www.google.com/search?q=shillong+&bih=667&biw=1366&hl=en&sxsrf=ALiCzsYJEXhcawaGE5Us7VV_auuzS-0Lrg%3A1664567053272&source=hp&ei=DUc3Y-azDfWemgfXy7rYDw&iflsig=AJiK0e8AAAAAYzdVHRlxQhRXbEsD9yoHqfCLfGLVY_lx&ved=0ahUKEwim7qW_o736AhV1j-YKHdelDvsQ4dUDCAc&uact=5&oq=shillong+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyCwgAEIAEELEDEIMBMgUILhCABDIICAAQsQMQgwEyCwgAEIAEELEDEIMBMggIABCABBCxAzIFCAAQgAQyBQgAEIAEMgsILhCABBDHARCvATILCAAQgAQQsQMQgwE6BAgjECc6BQgAEJECOhEILhCABBCxAxCDARDHARDRAzoKCAAQgAQQhwIQFDoICC4QsQMQgwE6BAguEEM6CAguEIAEELEDOgsILhCABBCxAxCDAToLCC4QgAQQsQMQ1AI6BwguELEDEEM6BwgAELEDEENQAFiRCWDtFmgAcAB4AIABlwKIAbANkgEFMC41LjSYAQCgAQE&sclient=gws-wiz"
      },
 	 {
-        "id": 10,
+        "id": 62,
         "placeOfOrigin": "India",
         "region": "Mumbai",
         "city": "Mumbai",
@@ -764,7 +775,7 @@
         "location": "https://g.page/Dwarka-pav-bhaji?share"
      },
       {
-        "id": 27,
+        "id": 63,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "Kolhapur",
@@ -777,7 +788,7 @@
 
     },
      {
-        "id": 11,
+        "id": 64,
         "placeOfOrigin": "India",
         "region": "union territory of india ",
         "city": "pondicherry",
@@ -790,7 +801,7 @@
 
     },
          {
-        "id": 28,
+        "id": 65,
         "placeOfOrigin": "India",
         "region": "Vidarbha",
         "city": "Nagpur",
@@ -803,7 +814,7 @@
     },
     
     {
-        "id": 29,
+        "id": 66,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Sangli",
@@ -815,7 +826,7 @@
         "location": "https://www.google.com/maps/dir//RHWW%2B3CR+Sambha+Bhel,+100+Feet+Rd,+Haripriyanagar,+Vishrambag,+Sangli,+Maharashtra+416415/@16.8660773,74.5511087,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc12281aa39602d:0x4397af1d45fc9932!2m2!1d74.5960248!2d16.8452403?hl=en"
     },
    { 
-        "id": 30,
+        "id": 67,
         "region": "Baghe bahu",
         "city": "Jammu",
         "food" : "Sweet",
@@ -826,7 +837,7 @@
         "location": "https://goo.gl/maps/oJhTXvMD1Xb61NLe8"
      },
         {
-        "id": 30,
+        "id": 68,
         "placeOfOrigin": "India",
         "region": "karad",
         "city": "kara",
@@ -838,7 +849,7 @@
         "location": "https://goo.gl/maps/iqS2CedQU2Sd1MDEA"
      },
      {
-        "id": 31,
+        "id": 69,
         "placeOfOrigin": "India",
         "region": "Goa",
         "city": "Panji",
@@ -850,7 +861,7 @@
         "location": "https://www.google.co.in/maps/dir//Ritz+Classic+Panjim,+Building,+1st+Floor,+Wagle+Vision,+18th+June+Rd,+Ozari,+Panaji,+Goa+403001/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3bbfc0892b7aac1b:0x711b75fe40723402?sa=X&ved=2ahUKEwi04tHehL36AhWjieYKHeaYAKgQ48ADegQIDRAK"
      },
      {
-        "id": 32,
+        "id": 70,
         "region": "delhi",
         "city": "delhi",
         "food" : "chaat",
@@ -861,7 +872,7 @@
         "location": "https://www.google.com/search?bih=601&biw=1280&hl=en&sxsrf=ALiCzsacqQQ1ThSD2latJ4EQqCdmq2DODw:1664558369913&q=delhi+chaat+shop&npsic=0&rflfq=1&rldoc=1&rllag=15800795,77035543,458664&tbm=lcl&sa=X&ved=2ahUKEwjcvuKSg736AhU29DgGHYzkBekQtgN6BAgJEAE"
     },
     {
-        "id": 33,
+        "id": 71,
         "placeOfOrigin": "India",
         "region": "Pune",
         "city": "Pune",
@@ -873,7 +884,7 @@
         "location": "https://www.google.com/maps/place/Bedekar+Misal/@18.5148131,73.5862541,11z/data=!4m9!1m2!2m1!1smisal+pav+location+in+pune!3m5!1s0x3bc2c0712045a1c9:0x23a1942274e443f0!8m2!3d18.5148276!4d73.8499343!15sChptaXNhbCBwYXYgbG9jYXRpb24gaW4gcHVuZVoTIhFtaXNhbCBwYXYgaW4gcHVuZZIBFGJyZWFrZmFzdF9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU13ZVRReWVGcG5FQUXgAQA?hl=en"
 },
  {
-        "id": 34,
+        "id": 72,
         "placeOfOrigin": "India",
         "region": "Marwar",
         "city": "Pokaran",
