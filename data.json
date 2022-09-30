@@ -108,6 +108,19 @@
         "rating": "4.5",
         "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
         "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
-    }
+    },
+    
+    {
+        "id": 11,
+        "placeOfOrigin": "India",
+        "region": "Tamil Nadu",
+        "city": "Madurai",
+        "food" : "Chilli Paratha",
+        "type": "Street Food",
+        "foodEnergy": "189 cal",
+        "rating": "4.5",
+        "image": "https://www.google.com/search?q=chilli+paratha&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSyZCZir36AhWEg2MGHWr3A_AQ_AUoAXoECAIQAw&biw=1846&bih=943&dpr=1#imgrc=93c1PbKXiJv5RM",
+        "location": "https://www.google.co.in/maps/dir//9.9178667,78.1179292"
+    },
     
 ]
