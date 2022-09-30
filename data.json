@@ -97,6 +97,30 @@
         "location": "https://g.co/kgs/8NML1c"
     },
     {
+        "id": 8,
+        "placeOfOrigin": "India",
+        "region": "Kolhapur",
+        "city": "Sangli",
+        "food" : "Bhadang, misalpav",
+        "type": "curry and bread",
+        "foodEnergy": "289 cal",
+        "rating": "4.2",
+        "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
+        "location": "https://g.page/misal-katta-and-cornor-crunch?share"
+    },
+     {   "id": 9,
+        "region": "solapur",
+        "city": "barshi",
+        "food" : "vadapav",
+        "type": "potato and besan",
+        "foodEnergy": "200 cal",
+        "rating": "4.5",
+        "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
+        "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
+    }
+       
+    {
+        "id": 10,
         "type": "Maida and Dal" ,
         "foodEnergy": "159 cal",
         "rating": "4.5",
@@ -143,14 +167,14 @@
        {
         "id": 11,
         "placeOfOrigin": "India",
-        "region": "Kolhapur",
-        "city": "Sangli",
-        "food" : "Bhadang, misalpav",
-        "type": "curry and bread",
-        "foodEnergy": "289 cal",
-        "rating": "4.2",
-        "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
-        "location": "https://g.page/misal-katta-and-cornor-crunch?share"
+        "region": "Sangli",
+        "city": "Vishrambhag",
+        "food" : "Aloo Petis",
+        "type": "Snack",
+        "foodEnergy": "187 cal",
+        "rating": "5",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fraghuveer-sweets-namkeen-and-cakes-opposite-anusaya-mangal-karyalay-jaitala-nagpur-84769&psig=AOvVaw3sJLBcNPq4rwMWUJH9gDpX&ust=1664646171442000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCzvq-IvfoCFQAAAAAdAAAAABAD",
+        "location": "https://www.google.com/maps/place/Raghuvir+Sweets+%26+Bakers/@16.850268,74.5899582,15z/data=!4m5!3m4!1s0x0:0x5e56e155aa654df6!8m2!3d16.850268!4d74.5899582"
     },
     {
         "id": 12,
@@ -203,7 +227,7 @@
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
 
     },
-   
+
  {
         "id": 15,
         "placeOfOrigin": "India",
@@ -251,7 +275,21 @@
         "rating": "3.9",
         "image": "https://www.google.com/maps/place/La+Pino'z+Pizza/@21.1482206,79.133641,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a%3Dw114-h86-k-no!7i4000!8i3000!4m5!3m4!1s0x3bd4c75d2ac83481:0xe69aadf67f9277!8m2!3d21.1483969!4d79.1336448",
         "location": "https://goo.gl/maps/39YATRMFLVSxkz5h7"
+
      },
+{
+    "id": 18,
+    "placeOfOrigin": "India",
+    "region": "khandesh",
+    "city": "Dhule",
+    "food" : "Puranpoli"
+    "type" : "sweet",
+    "foodEnery" : "85 cal",
+    "rating": "4.5",
+    "image" : https://www.google.com/search?gs_ssp=eJzj4tZP1zc0MkrLyqpIM2B0YPDiKigtSsxTKMjPyQQAbDwIRw&q=puran+poli&rlz=1C1YTUH_enIN1014IN1014&oq=puranpoli&aqs=chrome.1.69i57j46i13i19j46i13i19i175i199j0i13i19l6.8694j0j15&sourceid=chrome&ie=UTF-8
+    "location" : "https://www.google.com/search?q=dhule+location&rlz=1C1YTUH_enIN1014IN1014&oq=dhule+location&aqs=chrome.0.0i19i355j46i19j0i19j0i15i19i22i30j0i19i22i30l3j0i15i19i22i30l3.6935j1j15&sourceid=chrome&ie=UTF-8
+},
+    
 
      
   {
@@ -464,6 +502,7 @@
         "location": "https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
 
      }
+
     
 
 ]
