@@ -60,6 +60,20 @@
         "rating": "4",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fmisal-katta-com-locality-vishrambag-sangli-111094&psig=AOvVaw3x0AKG1XURbDDxSewteJhl&ust=1664643290430000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjFndP9vPoCFQAAAAAdAAAAABAE",
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
+    },
+     {
+        "id": 6,
+        "placeOfOrigin": "India",
+        "region": "khandesh",
+        "city": "khandesh",
+        "food" : "Thalipeet",
+        "type": "Regional Food",
+        "foodEnergy": " 88 cal",
+        "rating": "4.5",
+        "image": "https://cdn.cdnparenting.com/articles/2020/03/07132448/Spring-Onion-Thalipeeth-Recipe.jpg",
+        "location": "https://www.google.com/maps/place/Khandesh/@21.130793,72.9426164,7z/data=!3m1!4b1!4m5!3m4!1s0x3bdf3145406cff01:0xdc860e77d833a55e!8m2!3d21.0050629!4d75.5610015?hl=en
+        "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
 
     }
+    
 ]
