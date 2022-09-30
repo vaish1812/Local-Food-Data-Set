@@ -125,6 +125,18 @@
         "rating": "4.2",
         "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Punjabi_Rajma_Masala_Recipe_-_Rajma_Chawal_Spiced_Red_Kidney_Beans_Curry_4.jpg",
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
+    },
+    {
+        "id": 11,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Mumbai",
+        "food" : "Samosa",
+        "type": "sancks",
+        "foodEnergy": "289 cal",
+        "rating": "4.4",
+        "image": "https://www.google.com/search?q=samosa&sxsrf=ALiCzsZgYsJlKXZsGNTQEPws5hk8I1-Cow:1664562147150&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiI5PKbkb36AhWJvZQKHW4PBZcQ_AUoAXoECAIQAw&biw=1366&bih=625&dpr=1#imgrc=_TOpp6__HdjnsM",
+        "location": "https://www.google.com/maps/@16.8541892,74.6049057,15z"
     }
 
 
