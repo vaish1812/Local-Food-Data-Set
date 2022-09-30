@@ -35,6 +35,7 @@
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
     },
+
      {
         "id": 4,
         "placeOfOrigin": "India",
@@ -69,48 +70,25 @@
         "type": "Regional Food",
         "foodEnergy": " 88 cal",
         "rating": "4.5",
-        "image": "https://cdn.cdnparenting.com/articles/2020/03/07132448/Spring-Onion-Thalipeeth-Recipe.jpg"
+        "image": "https://cdn.cdnparenting.com/articles/2020/03/07132448/Spring-Onion-Thalipeeth-Recipe.jpg",
+        "location": "https://www.google.com/maps/place/Khandesh/@21.130793,72.9426164,7z/data=!3m1!4b1!4m5!3m4!1s0x3bdf3145406cff01:0xdc860e77d833a55e!8m2!3d21.0050629!4d75.5610015?hl=en
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
+
     },
     {
         "id": 7,
         "placeOfOrigin": "India",
-        "region": "Pune",
-        "city": "Pune",
-        "food" : "icecream",
-        "type": "Street Food",
-        "foodEnergy": "289 cal",
+        "region": "Vidarbha",
+        "city": "Shegaon",
+        "food" : "Kachori",
+        "type": "Maida and Dal",
+        "foodEnergy": "159 cal",
         "rating": "4.5",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
-        "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
-     },
-     {
-        "id": 8,
-        "placeOfOrigin": "India",
-        "region": "Hinganghat",
-        "city": "Hinganghat",
-        "food" : "aloo finger",
-        "type": "Street Food",
-        "foodEnergy": "150 cal",
-        "rating": "4.5",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnishamadhulika.com%2Fen%2F1631-crispy-potato-fingers.html&psig=AOvVaw0aYuM1wbTuIAKyy2jS1VeT&ust=1664645192860000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDe7-GEvfoCFQAAAAAdAAAAABAD",
-        "location": "https://goo.gl/maps/FU95tJn2zx97zSk69"
-     },
-    
-     {
-        "id": 9,
-        "placeOfOrigin": "India",
-        "region": "solapur",
-        "city": "barshi",
-        "food" : "vadapav",
-        "type": "potato and besan",
-        "foodEnergy": "200 cal",
-        "rating": "4.5",
-        "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
-        "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
+        "image": "https://www.google.com/search?q=kachori&tbm=isch&source=iu&ictx=1&vet=1&fir=RC-asdkr0RrXrM%252C2rlTdmSe7SsBeM%252C_%253B4GXjO5QOpcIzkM%252Cm_GvNtP75LwCgM%252C_%253Btds4Mu1IyaeoBM%252CcdG_QFiNUxTECM%252C_%253BPShwf_Auing2AM%252Ce-l5kKDEUhjxpM%252C_%253BxQXqZasjrmErIM%252CIWaHIFSZ8LIDbM%252C_%253B-1pXZ6knT3RLbM%252C9OSjwwubMjpvhM%252C_&usg=AI4_-kTMaQ3M323G5LhZS2hr1T0-JRoEKA&sa=X&ved=2ahUKEwiQgszFg736AhXD23MBHYb4AGYQ_h16BAheEAE#imgrc=tds4Mu1IyaeoBM",
+        "location": "https://g.co/kgs/8NML1c"
     },
-       {
-        "id": 10,
+    {
+        "id": 8,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "Sangli",
@@ -120,6 +98,29 @@
         "rating": "4.2",
         "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
         "location": "https://g.page/misal-katta-and-cornor-crunch?share"
+    },
+     {   "id": 9,
+        "region": "solapur",
+        "city": "barshi",
+        "food" : "vadapav",
+        "type": "potato and besan",
+        "foodEnergy": "200 cal",
+        "rating": "4.5",
+        "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
+        "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
+    }
+       
+    {
+        "id": 10,
+        "placeOfOrigin": "India",
+        "region": "Sangli",
+        "city": "Vishrambhag",
+        "food" : "Aloo Petis",
+        "type": "Snack",
+        "foodEnergy": "187 cal",
+        "rating": "5",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fraghuveer-sweets-namkeen-and-cakes-opposite-anusaya-mangal-karyalay-jaitala-nagpur-84769&psig=AOvVaw3sJLBcNPq4rwMWUJH9gDpX&ust=1664646171442000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCzvq-IvfoCFQAAAAAdAAAAABAD",
+        "location": "https://www.google.com/maps/place/Raghuvir+Sweets+%26+Bakers/@16.850268,74.5899582,15z/data=!4m5!3m4!1s0x0:0x5e56e155aa654df6!8m2!3d16.850268!4d74.5899582"
     },
     {
         "id": 11,
@@ -208,5 +209,6 @@
         "image": "https://www.google.com/maps/place/La+Pino'z+Pizza/@21.1482206,79.133641,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a%3Dw114-h86-k-no!7i4000!8i3000!4m5!3m4!1s0x3bd4c75d2ac83481:0xe69aadf67f9277!8m2!3d21.1483969!4d79.1336448",
         "location": "https://goo.gl/maps/39YATRMFLVSxkz5h7"
      }
+    
 
 ]
