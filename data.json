@@ -467,9 +467,25 @@
         "image": "https://goo.gl/maps/KFTtGQ4WDbbR5etd8",
         "location": "https://www.google.com/maps/place/Sanjay+Samosa+And+Nashta/@21.1312576,79.1141625,17z/data=!3m1!4b1!4m5!3m4!1s0x3bd4c7516e8ec949:0x827092f4d7e72557!8m2!3d21.1312526!4d79.1163512"
     },
+    
     {
         "id": 29,
-        "placeOfOrigin": "India",
+        "placeOfOrigin": "India"
+        "region": "Maharashtra",
+        "city": "Sangli",
+        "food" : "Bhel",
+        "type": "Spicy & Tangy",
+        "foodEnergy": "350 cal",
+        "rating": "4.1",
+        "image": "https://www.whatshot.in/pune/bhadang-bhel-j-m-road-c-14513",
+        "location": "https://www.google.com/maps/dir//RHWW%2B3CR+Sambha+Bhel,+100+Feet+Rd,+Haripriyanagar,+Vishrambag,+Sangli,+Maharashtra+416415/@16.8660773,74.5511087,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc12281aa39602d:0x4397af1d45fc9932!2m2!1d74.5960248!2d16.8452403?hl=en
+    },
+
+
+
+
+   { "id": 30,
+
         "region": "Baghe bahu",
         "city": "Jammu",
         "food" : "Sweet",
