@@ -164,6 +164,18 @@
     {
         "id": 14,
         "placeOfOrigin": "India",
+        "region": "Thane",
+        "city": "Thane",
+        "food" : "Mamledar misal",
+        "type": "bread and curry",
+        "foodEnergy": "289 cal",
+        "rating": "5.0",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpipingpotcurry.com%2Fmisal-pav-pressure-cooker%2F&psig=AOvVaw3fmY06havnmv1Sek2gAER0&ust=1664649254558000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDiqu-TvfoCFQAAAAAdAAAAABAD",
+        "location": "https://www.eazydiner.com/mumbai/mamledar-misal-thane-west-222718/map"
+    },
+    {
+        "id": 15,
+        "placeOfOrigin": "India",
         "region": "",
         "city": "Pune",
         "food" : "Sujata Mastani",
@@ -174,7 +186,7 @@
         "location": "https://g.co/kgs/8NML1c"
      },
     {
-        "id": 14,
+        "id": 16,
         "placeOfOrigin": "India",
         "region": "Vidharbha",
         "city": "Nagpur",
