@@ -87,5 +87,17 @@
         "image": "https://www.google.com/search?q=kachori&tbm=isch&source=iu&ictx=1&vet=1&fir=RC-asdkr0RrXrM%252C2rlTdmSe7SsBeM%252C_%253B4GXjO5QOpcIzkM%252Cm_GvNtP75LwCgM%252C_%253Btds4Mu1IyaeoBM%252CcdG_QFiNUxTECM%252C_%253BPShwf_Auing2AM%252Ce-l5kKDEUhjxpM%252C_%253BxQXqZasjrmErIM%252CIWaHIFSZ8LIDbM%252C_%253B-1pXZ6knT3RLbM%252C9OSjwwubMjpvhM%252C_&usg=AI4_-kTMaQ3M323G5LhZS2hr1T0-JRoEKA&sa=X&ved=2ahUKEwiQgszFg736AhXD23MBHYb4AGYQ_h16BAheEAE#imgrc=tds4Mu1IyaeoBM",
         "location": "https://g.co/kgs/8NML1c"
     },
+    {
+        "id": 8,
+        "placeOfOrigin": "India",
+        "region": "",
+        "city": "Pune",
+        "food" : "Sujata Mastani",
+        "type": "fruit juice and icecream",
+        "foodEnergy": "59 cal",
+        "rating": "4.5",
+        "image": "https://d2r4vjqv0e4e2o.cloudfront.net/blog/wp-content/uploads/2019/05/30104436/sujata-mastani-in-pune.jpg",
+        "location": "https://g.co/kgs/8NML1c"
+     },
     
 ]
