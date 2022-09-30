@@ -197,5 +197,16 @@
         "image": "https://www.google.com/maps/place/La+Pino'z+Pizza/@21.1482206,79.133641,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a%3Dw114-h86-k-no!7i4000!8i3000!4m5!3m4!1s0x3bd4c75d2ac83481:0xe69aadf67f9277!8m2!3d21.1483969!4d79.1336448",
         "location": "https://goo.gl/maps/39YATRMFLVSxkz5h7"
      }
-
+{
+        "id": 20,
+        "placeOfOrigin": "India",
+        "region": "Vidharbha",
+        "city": "Sewagram",
+        "food" : "Vada",
+        "type": "Besan and Potato",
+        "foodEnergy": "70 cal",
+        "rating": "7",
+        "image": "https://i1.wp.com/vegecravings.com/wp-content/uploads/2016/12/batata-vada-recipe-step-by-step-instructions.jpg?fit=3779%2C2906&quality=65&strip=all&ssl=1",
+        "location": "https://maps.app.goo.gl/rtsiGSBpbtYy7HN9A"
+     }
 ]
