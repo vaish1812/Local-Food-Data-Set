@@ -85,5 +85,17 @@
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
      }
+        {
+        "id": 8,
+        "placeOfOrigin": "India",
+        "region": "karad",
+        "city": "kara",
+        "food" : "vadapav",
+        "type": "Street Food",
+        "foodEnergy": "197 cal",
+        "rating": "4.5",
+        "image": https://www.google.com/search?q=sainath+vada+pav+karad&rlz=1C1FKPE_enIN974IN974&sxsrf=ALiCzsZC_yPte_i9kduJEGe0kiCn3rPJgA:1664558691904&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiopaeshL36AhXy-DgGHWJaBM0Q_AUoBHoECAMQBg&biw=1229&bih=571&dpr=1.56"
+        "location": "https://goo.gl/maps/iqS2CedQU2Sd1MDEA"
+     }
     
 ]
