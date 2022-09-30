@@ -35,6 +35,7 @@
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
     },
+
      {
         "id": 4,
         "placeOfOrigin": "India",
@@ -59,6 +60,15 @@
         "rating": "4",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fmisal-katta-com-locality-vishrambag-sangli-111094&psig=AOvVaw3x0AKG1XURbDDxSewteJhl&ust=1664643290430000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjFndP9vPoCFQAAAAAdAAAAABAE",
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
+
+    },
+    
+    {
+        "id": 6,
+        "placeOfOrigin": "India",
+        "region": "Akola",
+        "city": "Akola",
+        "food" : "PaniPuri",
     },
      {
         "id": 6,
@@ -293,10 +303,10 @@
         "city": "Pune",
         "food" : "icecream",
         "type": "Street Food",
-        "foodEnergy": "289 cal",
+        "foodEnergy": "329 calories",
         "rating": "4.5",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
-        "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftouch.facebook.com%2Fakola.paanipuri%2Fphotos%2Fa.251598281541742.64472.190432387658332%2F1169171606451067%2F%3Ftype%3D3%26__tn__%3D-R&psig=AOvVaw1_QbrniHK2QJyRe_4pAqJ9&ust=1664644246118000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjc-NWBvfoCFQAAAAAdAAAAABAD",
+        "location": "https://g.co/kgs/JF6pzH"
      },
     {
         "id": 25,
@@ -420,6 +430,6 @@
 
      }
     
-  
+
 ]
 
