@@ -160,6 +160,18 @@
         "rating": "5.0",
         "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Punjabi_Rajma_Masala_Recipe_-_Rajma_Chawal_Spiced_Red_Kidney_Beans_Curry_4.jpg",
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
+    },
+    {
+        "id": 14,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Sangli",
+        "food" : "Dabili",
+        "type": "Sandwich",
+        "foodEnergy": "30 cal",
+        "rating": "4.0",
+        "image": "https://www.shutterstock.com/search/dabeli",
+        "location": "https://www.google.com/search?q=sangli%20dabeli%20shop&rlz=1C1CHBD_enIN959IN959&oq=sangli+dabeli+shop&aqs=chrome..69i57j33i160l3.6425j0j4&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:9&tbm=lcl&sxsrf=ALiCzsa6J2IwvHOqmvfpwRFXh8heKiFRvw:1664562607426&rflfq=1&num=10&rldimm=7860654891063868071&lqi=ChJzYW5nbGkgZGFiZWxpIHNob3BaFCISc2FuZ2xpIGRhYmVsaSBzaG9wkgEKcmVzdGF1cmFudKoBHwoKL20vMGRsbjJ0NxABKg8iC2RhYmVsaSBzaG9wKEA&ved=2ahUKEwit5K_3kr36AhUwB7cAHcPRDUYQvS56BAgIEAc&sa=X&rlst=f#rlfi=hd:;si:7860654891063868071,l,ChJzYW5nbGkgZGFiZWxpIHNob3BaFCISc2FuZ2xpIGRhYmVsaSBzaG9wkgEKcmVzdGF1cmFudKoBHwoKL20vMGRsbjJ0NxABKg8iC2RhYmVsaSBzaG9wKEA;mv:[[16.8662428,74.6136269],[16.8384265,74.5519269]]"
     }
 
 ]
