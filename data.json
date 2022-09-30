@@ -241,6 +241,19 @@
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
     },
     {
+
+        "id": 14,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Satara",
+        "food" : "Kandi PedheL",
+        "type": "Sweet",
+        "foodEnergy": "280 cal",
+        "rating": "5.0",
+        "image": "https://delishbite.files.wordpress.com/2021/10/kandi-pedha.jpg?w=640",
+        "location": "https://goo.gl/maps/Zw3QZ3FKS24Ge9FX9"
+    },
+{
         "id": 16,
         "placeOfOrigin": "India",
         "region": "Thane",
@@ -503,7 +516,6 @@
 
      }
 
-    
 
 ]
 
