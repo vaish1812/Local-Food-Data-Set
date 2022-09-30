@@ -211,6 +211,8 @@
         "image": "https://www.google.com/maps/place/La+Pino'z+Pizza/@21.1482206,79.133641,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a%3Dw114-h86-k-no!7i4000!8i3000!4m5!3m4!1s0x3bd4c75d2ac83481:0xe69aadf67f9277!8m2!3d21.1483969!4d79.1336448",
         "location": "https://goo.gl/maps/39YATRMFLVSxkz5h7"
      },
+
+     
   {
         "id": 18,
         "placeOfOrigin": "India",
@@ -247,11 +249,10 @@
         "type": "Non Veg",
         "foodEnergy": "300 cal",
         "rating": "4.5",
-        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.jdmagicbox.com%2Fcomp%2Fsangli%2Fd8%2F9999px233.x233.201109161104.f8d8%2Fcatalogue%2Fhotel-gavran-kupwad-sangli-chej5zgsun.jpg%3Fclr%3D&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FSangli%2FHotel-Gavran-Kolhapuri-Near-RTO-Office-Kupwad-MIDC%2F9999PX233-X233-180729004006-M1S7_BZDET&tbnid=iWwZYwiSPOmldM&vet=12ahUKEwi5k4-Pn736AhUhDrcAHRqCAY0QMygAegQIARBi..i&docid=tfnYvN4C3HZuMM&w=1920&h=1440&q=gavran%20hotel%20sangli&ved=2ahUKEwi5k4-Pn736AhUhDrcAHRqCAY0QMygAegQIARBi",
-        "location": "https://www.google.com/search?q=gavran%20hotel%20sangli&rlz=1C1SQJL_enIN893IN893&sxsrf=ALiCzsZhisxkXUGWA5XAPXfY04tdjafpwQ:1664565813723&ei=JEI3Y6biIt-RseMP5c63GA&oq=gavran&gs_lcp=Cgdnd3Mtd2l6EAEYATIKCC4QxwEQrwEQQzIECAAQQzIFCAAQkQIyCAgAEIAEEMkDMgsILhCABBDHARCvATILCC4QgAQQxwEQrwEyBQgAEIAEMggIABCABBCxAzIFCAAQgAQyCggAEIAEEIcCEBQ6BAgjECc6EQguEIAEELEDEIMBEMcBENEDOgsIABCABBCxAxCDAToECC4QQzoHCC4QsQMQQzoICC4QgAQQsQM6BQguEIAEOggIABCxAxCDAUoECEEYAEoECEYYAFAAWKcUYPMhaAJwAXgAgAG7AYgBhweSAQMwLjaYAQCgAQHAAQE&sclient=gws-wiz&tbs=lf:1,lf_ui:9&tbm=lcl&rflfq=1&num=10&rldimm=5513290161102838104&lqi=ChNnYXZyYW4gaG90ZWwgc2FuZ2xpSNek3uzTtoCACFofEAAQARgAGAEYAiITZ2F2cmFuIGhvdGVsIHNhbmdsaZIBCnJlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTlhkbVpMZG1sQlJSQUKqARQQASoQIgxnYXZyYW4gaG90ZWwoAA&phdesc=NZh5rkG6ZRE&ved=2ahUKEwiy2KDwnr36AhXLSmwGHTDWBF0QvS56BAgEEAE&sa=X&rlst=f#rlfi=hd:;si:5513290161102838104,l,ChNnYXZyYW4gaG90ZWwgc2FuZ2xpSNek3uzTtoCACFofEAAQARgAGAEYAiITZ2F2cmFuIGhvdGVsIHNhbmdsaZIBCnJlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTlhkbVpMZG1sQlJSQUKqARQQASoQIgxnYXZyYW4gaG90ZWwoAA,y,NZh5rkG6ZRE;mv:[[16.867055399999998,74.6577195],[16.847072,74.60779389999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9"
-
+        },
+       
       {
-        "id": 19,
+        "id": 19,>>>>>>> main
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "Sangli",
@@ -262,6 +263,7 @@
         "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
         "location": "https://g.page/misal-katta-and-cornor-crunch?share"
     },
+
     {
         "id": 20,
         "placeOfOrigin": "India",
@@ -297,7 +299,7 @@
         "rating": "4.5",
         "image": "https://www.google.com/maps/place/Hotel+Tambda+Pandhra/@16.7042808,74.2480372,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNgbAJbAMuhcwAkMgQ6LACPabPX2HmH-zdUepxU!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNgbAJbAMuhcwAkMgQ6LACPabPX2HmH-zdUepxU%3Dw114-h86-k-no!7i1280!8i960!4m5!3m4!1s0x3bc10046cf5db6e5:0xf19cf9780365889!8m2!3d16.7044112!4d74.2479733",
         "location": "https://www.google.com/maps/place/Hotel+Tambda+Pandhra/@16.7201773,74.2873921,12.25z/data=!4m12!1m6!3m5!1s0x3bc10046cf5db6e5:0xf19cf9780365889!2sHotel+Tambda+Pandhra!8m2!3d16.7044112!4d74.2479733!3m4!1s0x3bc10046cf5db6e5:0xf19cf9780365889!8m2!3d16.7044112!4d74.2479733"
-     }
+     },
     
         {
         "id": 9,
@@ -311,6 +313,7 @@
         "image": "https://www.google.com/search?q=veg+handi+fry&sxsrf=ALiCzsbq5oO2s8evkeVVxcUBW06Pgk18Kw:1664563859242&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjSyaTMl736AhUWTmwGHW8FBCAQ_AUoAXoECAIQAw&biw=1292&bih=636&dpr=1#imgrc=3KEp0Z2-Wy8y4M",
         "location": "https://www.google.com/maps/place/Borivali,+Mumbai,+Maharashtra/data=!4m2!3m1!1s0x3be7b128b333e163:0x985640540577af7e?sa=X&ved=2ahUKEwiolNKFmL36AhUgcGwGHVylClsQ8gF6BAhuEAE"
      }
+
 
 
 ]
