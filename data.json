@@ -22,7 +22,7 @@
         "rating": "4.1",
         "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
         "location": "https://www.justdial.com/Solapur/Solapur-Vada-Pav-Near-Sangameswar-College-Solapur-HO/9999PX217-X217-170304171018-J6Q8_BZDET"
-    }
+    },
     {
         "id": 3,
         "placeOfOrigin": "India",
@@ -34,5 +34,17 @@
         "rating": "4.5",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
+    },
+     {
+        "id": 4,
+        "placeOfOrigin": "India",
+        "region": "Solapur",
+        "city": "Solapur",
+        "food" : "Shenga-Chutney",
+        "type": "Homemade",
+        "foodEnergy": "43 cal",
+        "rating": "4",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FUMADIS-Hand-POUNDED-SHENGA-Chutney%2Fdp%2FB07NCVNWM8&psig=AOvVaw0eJ2h3dSImY6PXSVVYA6jB&ust=1664643780949000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiO4Lv_vPoCFQAAAAAdAAAAABAF",
+        "location": "https://goo.gl/maps/A8iNyVH58F4BctcD6"
     }
 ]
