@@ -35,48 +35,37 @@
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
     },
-
      {
         "id": 4,
         "placeOfOrigin": "India",
-        "region": "Solapur",
-        "city": "Solapur",
-        "food" : "Shenga-Chutney",
-        "type": "Homemade",
-        "foodEnergy": "43 cal",
-        "rating": "4",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FUMADIS-Hand-POUNDED-SHENGA-Chutney%2Fdp%2FB07NCVNWM8&psig=AOvVaw0eJ2h3dSImY6PXSVVYA6jB&ust=1664643780949000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiO4Lv_vPoCFQAAAAAdAAAAABAF",
-        "location": "https://goo.gl/maps/A8iNyVH58F4BctcD6"
-        },
+        "region": "Gujrat",
+        "city": "Ahmedabad",
+        "food" : "Dhokla",
+        "type": "Street Food",
+        "foodEnergy": "81 cal",
+        "rating": "4.5",
 
+        "image": "https://images.app.goo.gl/C3WkjpQe91onx9LR9",
+        "location": "https://g.page/radhekrishna-live-dhokla-khaman?share"
+
+    },
+    
     {
         "id": 5,
         "placeOfOrigin": "India",
-        "region": "Sangli",
-        "city": "Sangli",
-        "food" : "Misal",
-        "type": "Street Food",
-        "foodEnergy": "156 cal",
-        "rating": "4",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fmisal-katta-com-locality-vishrambag-sangli-111094&psig=AOvVaw3x0AKG1XURbDDxSewteJhl&ust=1664643290430000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjFndP9vPoCFQAAAAAdAAAAABAE",
-        "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
-    },
-     {
-        "id": 6,
-        "placeOfOrigin": "India",
-        "region": "khandesh",
-        "city": "khandesh",
-        "food" : "Thalipeet",
-        "type": "Regional Food",
-        "foodEnergy": " 88 cal",
+        "region": "Kolhapur",
+        "city": "barshi",
+        "food" : "Rassa",
+        "type": "Mutton",
+        "foodEnergy": "200 cal",
         "rating": "4.5",
-        "image": "https://cdn.cdnparenting.com/articles/2020/03/07132448/Spring-Onion-Thalipeeth-Recipe.jpg",
-        "location": "https://www.google.com/maps/place/Khandesh/@21.130793,72.9426164,7z/data=!3m1!4b1!4m5!3m4!1s0x3bdf3145406cff01:0xdc860e77d833a55e!8m2!3d21.0050629!4d75.5610015?hl=en
-        "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
+        "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
+        "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
 
-    }
+    },
+
       {
-        "id": 7,
+        "id": 6,
         "placeOfOrigin": "India",
         "region": "JAMMU",
         "city": "JAMMU",
@@ -87,4 +76,5 @@
         "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Punjabi_Rajma_Masala_Recipe_-_Rajma_Chawal_Spiced_Red_Kidney_Beans_Curry_4.jpg",
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
     },
+
 ]
