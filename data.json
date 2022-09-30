@@ -108,6 +108,17 @@
         "rating": "4.5",
         "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
         "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
+    },
+    {
+        "id": 10,
+        "placeOfOrigin": "India",
+        "region": "Pune",
+        "city": "Pune",
+        "food" : "puranpoli",
+        "type": "sweet",
+        "foodEnergy": "240 cal",
+        "rating": "4.8",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ge8Dy42AjwKywPLCOA9xmUy2ZsxpqW2ThqFj7ArWWA&s",
+        "location":"https://www.mapsofindia.com/india/where-is-pune.html"
     }
-    
 ]
