@@ -84,6 +84,18 @@
         "rating": "4.5",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
+     },
+    {
+        "id": 8,
+        "placeOfOrigin": "India",
+        "region": "Kolhapur",
+        "city": "Kolhapur",
+        "food" : "Tambda Pandra Rassa",
+        "type": "Regional Food",
+        "foodEnergy": "194 cal",
+        "rating": "4.5",
+        "image": "https://www.google.com/maps/place/Hotel+Tambda+Pandhra/@16.7042808,74.2480372,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNgbAJbAMuhcwAkMgQ6LACPabPX2HmH-zdUepxU!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNgbAJbAMuhcwAkMgQ6LACPabPX2HmH-zdUepxU%3Dw114-h86-k-no!7i1280!8i960!4m5!3m4!1s0x3bc10046cf5db6e5:0xf19cf9780365889!8m2!3d16.7044112!4d74.2479733",
+        "location": "https://www.google.com/maps/place/Hotel+Tambda+Pandhra/@16.7201773,74.2873921,12.25z/data=!4m12!1m6!3m5!1s0x3bc10046cf5db6e5:0xf19cf9780365889!2sHotel+Tambda+Pandhra!8m2!3d16.7044112!4d74.2479733!3m4!1s0x3bc10046cf5db6e5:0xf19cf9780365889!8m2!3d16.7044112!4d74.2479733"
      }
     
 ]
