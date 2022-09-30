@@ -95,10 +95,10 @@
         "rating": "4.5",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnishamadhulika.com%2Fen%2F1631-crispy-potato-fingers.html&psig=AOvVaw0aYuM1wbTuIAKyy2jS1VeT&ust=1664645192860000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDe7-GEvfoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/FU95tJn2zx97zSk69"
-     },
+     }
     
      {
-        "id": 9,
+        "id": 8,
         "placeOfOrigin": "India",
         "region": "solapur",
         "city": "barshi",
@@ -108,6 +108,19 @@
         "rating": "4.5",
         "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
         "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
-    }
+    },
+
+{
+        "id": 10,
+        "placeOfOrigin": "India",
+        "region": "vidarbha",
+        "city": "Ramtek",
+        "food" : "kacha chivda",
+        "type": "Street Food",
+        "foodEnergy": "330 cal",
+        "rating": "4.5",
+        "image": "https://cookpad.com/in/recipes/12770478-kachha-chivda",
+        "location": "https://www.google.co.in/maps/place/Jamnagarwala+Sweets+Namkin/@21.3938816,79.3271324,3a,77.2y,90t/data=!3m8!1e2!3m6!1sAF1QipN-mWvn56iIgeRVK-jwcn-CWEyVKRsNuMpRHgJw!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-mWvn56iIgeRVK-jwcn-CWEyVKRsNuMpRHgJw%3Dw203-h172-k-no!7i720!8i612!4m7!3m6!1s0x3bd4d3a11a70b8df:0x63ebe07a9a94a11d!8m2!3d21.3940429!4d79.3270923!14m1!1BCgIgAQ"
+     },
     
 ]
