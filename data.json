@@ -518,10 +518,21 @@
         "rating": "4.9",
         "image": "https://images.app.goo.gl/ZJrroDpYXfezqBur8",
         "location": "https://g.page/cafekhandoli?share"
+
     },
+     {
+        "id": 11,
+        "placeOfOrigin": "India",
+        "region": "union territory of india ",
+        "city": "pondicherry",
+        "food" : "ratatouille",
+        "type": "stew",
+        "foodEnergy": "301 cal",
+        "rating": "4.5",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9c7GYLurVjT27JGjp3HX9xHdDreMEZu1IrR1mY1i1A&s",
+        "location": "https://maps.google.com/maps?saddr=&daddr=337+R+D+Mission+Street%2C+Pondicherry+605001+India@11.92855,79.83497"
 
-
-    
+    },
          {
         "id": 28,
         "placeOfOrigin": "India",
