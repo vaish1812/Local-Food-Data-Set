@@ -144,10 +144,10 @@
         "city": "Hinganghat",
         "food" : "aloo finger",
         "type": "Street Food",
-        "foodEnergy": "150 cal",
+        "foodEnergy": "88 cal",
         "rating": "4.5",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnishamadhulika.com%2Fen%2F1631-crispy-potato-fingers.html&psig=AOvVaw0aYuM1wbTuIAKyy2jS1VeT&ust=1664645192860000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDe7-GEvfoCFQAAAAAdAAAAABAD",
-        "location": "https://goo.gl/maps/FU95tJn2zx97zSk69"
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fakdiet.in%2Fservices%2Fthalipeeth%2F&psig=AOvVaw2MiEpOKHmn5WWXf12L48Ri&ust=1664642659286000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCzmqf7vPoCFQAAAAAdAAAAABAD",
+        "location": "https://g.page/panchakattu?share"
      },
     
      {
@@ -232,15 +232,26 @@
      {
         "id": 13,
         "placeOfOrigin": "India",
-        "region": "Wardha",
-        "city": "Wardha",
-        "food" : "kachori cha",
+        "region": "Hyderabad",
+        "city": "Hyderabad",
+        "food" : "Idli",
         "type": "Street Food",
-        "foodEnergy": "200 cal",
+        "foodEnergy": "66 cal",
         "rating": "4.5",
-        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.vegrecipesofindia.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fraj-kachori-chaat-recipe-1.jpg&imgrefurl=https%3A%2F%2Fwww.vegrecipesofindia.com%2Fraj-kachori-recipe%2F&tbnid=W3fXuQJYP6KwNM&vet=12ahUKEwidxLHCjr36AhV5ntgFHQ6GCuIQMygBegUIARD1AQ..i&docid=sUMsim7ezSQ_MM&w=683&h=682&q=kachori%20chaat&ved=2ahUKEwidxLHCjr36AhV5ntgFHQ6GCuIQMygBegUIARD1AQ",
-        "location": "https://goo.gl/maps/gP2k7eCxRcoTNFh89"
-
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fswiggy%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Cfl_lossy%2Fxcxzo5pqd3l9l29sl6zl&imgrefurl=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fmr-idly-dosa-allwyn-x-road-miyapur-hyderabad-5009&tbnid=yKTbNw5Z0gPOyM&vet=12ahUKEwjB3OS2_Lz6AhWok9gFHfVUDNYQMygGegUIARDMAQ..i&docid=w78B2eObuK-YUM&w=3580&h=1790&q=idli%20in%20hyderabad&ved=2ahUKEwjB3OS2_Lz6AhWok9gFHfVUDNYQMygGegUIARDMAQ",
+        "location": "https://goo.gl/maps/eN1up85WudjXSRXT6"
+    },
+    {
+        "id": 6,
+        "placeOfOrigin": "India",
+        "region": "Nagpur",
+        "city": "Umrer",
+        "food" : "saoji mutton",
+        "type": "non-veg curry",
+        "foodEnergy": "199 cal",
+        "rating": "5",
+        "image": "https://www.google.com/search?q=dm+hotel+umred&sxsrf=ALiCzsYp2Iyqs9YwxBHVNf7ymWUm8T6Viw:1664567130669&source=lnms&tbm=isch&sa=X&ved=2ahUKEwic0Jzko736AhUUzXMBHaeEA4UQ_AUoAnoECAIQBA&biw=1536&bih=714&dpr=1.25#imgrc=gd3VXctmMtCsNM",
+        "location": "https://www.google.com/maps/search/dm+hotel+umred/@20.8523472,79.310395,16z/data=!3m1!4b1?hl=en"
     },
       {
         "id": 14,
@@ -569,7 +580,6 @@
         "location": "https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
 
      }
-
 
 ]
 
