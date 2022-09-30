@@ -38,80 +38,20 @@
      {
         "id": 4,
         "placeOfOrigin": "India",
-        "region": "Solapur",
-        "city": "Solapur",
-        "food" : "Shenga-Chutney",
-        "type": "Homemade",
-        "foodEnergy": "43 cal",
-        "rating": "4",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FUMADIS-Hand-POUNDED-SHENGA-Chutney%2Fdp%2FB07NCVNWM8&psig=AOvVaw0eJ2h3dSImY6PXSVVYA6jB&ust=1664643780949000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiO4Lv_vPoCFQAAAAAdAAAAABAF",
-        "location": "https://goo.gl/maps/A8iNyVH58F4BctcD6"
-        },
+        "region": "Gujrat",
+        "city": "Ahmedabad",
+        "food" : "Dhokla",
+        "type": "Street Food",
+        "foodEnergy": "81 cal",
+        "rating": "4.5",
 
+        "image": "https://images.app.goo.gl/C3WkjpQe91onx9LR9",
+        "location": "https://g.page/radhekrishna-live-dhokla-khaman?share"
+
+    },
+    
     {
         "id": 5,
-        "placeOfOrigin": "India",
-        "region": "Sangli",
-        "city": "Sangli",
-        "food" : "Misal",
-        "type": "Street Food",
-        "foodEnergy": "156 cal",
-        "rating": "4",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fmisal-katta-com-locality-vishrambag-sangli-111094&psig=AOvVaw3x0AKG1XURbDDxSewteJhl&ust=1664643290430000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjFndP9vPoCFQAAAAAdAAAAABAE",
-        "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
-    },
-     {
-        "id": 6,
-        "placeOfOrigin": "India",
-        "region": "khandesh",
-        "city": "khandesh",
-        "food" : "Thalipeet",
-        "type": "Regional Food",
-        "foodEnergy": " 88 cal",
-        "rating": "4.5",
-        "image": "https://cdn.cdnparenting.com/articles/2020/03/07132448/Spring-Onion-Thalipeeth-Recipe.jpg"
-        "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
-    },
-    {
-        "id": 7,
-        "placeOfOrigin": "India",
-        "region": "Pune",
-        "city": "Pune",
-        "food" : "icecream",
-        "type": "Street Food",
-        "foodEnergy": "289 cal",
-        "rating": "4.5",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
-        "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
-     },
-     {
-        "id": 8,
-        "placeOfOrigin": "India",
-        "region": "Hinganghat",
-        "city": "Hinganghat",
-        "food" : "aloo finger",
-        "type": "Street Food",
-        "foodEnergy": "150 cal",
-        "rating": "4.5",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnishamadhulika.com%2Fen%2F1631-crispy-potato-fingers.html&psig=AOvVaw0aYuM1wbTuIAKyy2jS1VeT&ust=1664645192860000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDe7-GEvfoCFQAAAAAdAAAAABAD",
-        "location": "https://goo.gl/maps/FU95tJn2zx97zSk69"
-     },
-    
-     {
-        "id": 9,
-        "placeOfOrigin": "India",
-        "region": "solapur",
-        "city": "barshi",
-        "food" : "vadapav",
-        "type": "potato and besan",
-        "foodEnergy": "200 cal",
-        "rating": "4.5",
-        "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
-        "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
-    },
-    
-    {
-        "id": 18,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "barshi",
@@ -121,6 +61,6 @@
         "rating": "4.5",
         "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
         "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
+
     }
-    
 ]
