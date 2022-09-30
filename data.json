@@ -311,7 +311,7 @@
         "rating": "4.5",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
-     },
+},
     {
         "id": 25,
         "placeOfOrigin": "India",
@@ -361,10 +361,18 @@
         "rating": "4.5",
         "image": "https://goo.gl/maps/KFTtGQ4WDbbR5etd8",
         "location": "https://www.google.com/maps/place/Sanjay+Samosa+And+Nashta/@21.1312576,79.1141625,17z/data=!3m1!4b1!4m5!3m4!1s0x3bd4c7516e8ec949:0x827092f4d7e72557!8m2!3d21.1312526!4d79.1163512"
-    }
-
-
-
-
-
+    },
+    {
+        "id": 29,
+        "placeOfOrigin": "India",
+        "region": "Baghe bahu",
+        "city": "Jammu",
+        "food" : "Sweet",
+        "type": "Street Food",
+        "foodEnergy": "40 cal",
+        "rating": "4.7",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNTaYgTgMA5jO7pGv0rGuf7IpNLAxxFdKS8EJOM=w408-h544-k-no"
+        "location": "https://goo.gl/maps/oJhTXvMD1Xb61NLe8"
+     }
+   
 ]
