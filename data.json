@@ -301,7 +301,6 @@
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.karthfoodfactory.com%2Fbest-food-places-in-kanpur%2F&psig=AOvVaw0rudUMZW5s6gRXayzUHEd5&ust=1664648433925000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiOveeQvfoCFQAAAAAdAAAAABAD",
         "location": "https://www.karthfoodfactory.com/best-food-places-in-kanpur/"
     },
-   
  {
         "id": 15,
         "placeOfOrigin": "India",
@@ -325,8 +324,21 @@
         "rating": "5.0",
         "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/11/pizza-recipe.jpg",
         "location": "https://www.google.com/maps/place/21%C2%B027'52.3%22N+80%C2%B011'32.4%22E/@21.4645168,80.1923312,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x5d80c734703f9c49!8m2!3d21.4645168!4d80.1923312"
+
     },
     {
+        "id": 14,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Mumbai",
+        "food" : "Samosa",
+        "type": "sancks",
+        "foodEnergy": "289 cal",
+        "rating": "4.4",
+        "image": "https://www.google.com/search?q=samosa&sxsrf=ALiCzsZgYsJlKXZsGNTQEPws5hk8I1-Cow:1664562147150&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiI5PKbkb36AhWJvZQKHW4PBZcQ_AUoAXoECAIQAw&biw=1366&bih=625&dpr=1#imgrc=_TOpp6__HdjnsM",
+        "location": "https://www.google.com/maps/@16.8541892,74.6049057,15z"
+        },
+        {
         "id": 14,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
