@@ -423,6 +423,18 @@
         "location": "https://www.google.com/search?q=chole+kulche+location&source=lmns&hl=en&sa=X&ved=2ahUKEwiB2u-2nL36AhUJiNgFHe6lD3oQ_AUoAHoECAEQAA"
      },
     {
+        "id": 29,
+        "placeOfOrigin": "China",
+        "region": "China",
+        "city": "Beijing",
+        "food" : "Dumplings",
+        "type": "Maidad",
+        "foodEnergy": "690 cal",
+        "rating": "4.8",
+        "image": "https://www.google.com/search?q=dumplings&sxsrf=ALiCzsZQ-quM6XCvwEsDuVrw0PFO_n4wMA:1664565703995&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjZs_e7nr36AhV-UGwGHXzsDDMQ_AUoAXoECAMQAw&biw=1536&bih=726&dpr=1.25#imgrc=Xh_lg9xDAFxmgM",
+        "location": "https://www.google.com/maps?q=dumplings&source=lmns&bih=726&biw=1536&hl=en&sa=X&ved=2ahUKEwjDr5rXnr36AhXci9gFHQcmDb4Q_AUoBHoECAEQBA"
+     },
+    {
         "id": 20,
         "placeOfOrigin": "India",
         "region": "National Capital Region NCR",
@@ -580,6 +592,5 @@
         "location": "https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
 
      }
-
 ]
 
