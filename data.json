@@ -224,6 +224,20 @@
         "location": "https://www.google.com/search?q=chole+kulche+location&source=lmns&hl=en&sa=X&ved=2ahUKEwiB2u-2nL36AhUJiNgFHe6lD3oQ_AUoAHoECAEQAA"
      },
 
+     {
+        "id": 19,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Nagpur",
+        "food" : "moong pakoda",
+        "type": "snacks",
+        "foodEnergy": "256 cal",
+        "rating": "4.1",
+        "image": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fsantoshpakodewala.com%2Fimg%2Fstatic%2Fs1.jpg&imgrefurl=http%3A%2F%2Fsantoshpakodewala.com%2F&tbnid=cvUS9G2-W7tXBM&vet=12ahUKEwiM_uTBnr36AhUgjtgFHRtNAqsQMygAegUIARDBAQ..i&docid=zUCuiuDC01hRUM&w=1920&h=1030&q=santosh%20moong%20pakoda&ved=2ahUKEwiM_uTBnr36AhUgjtgFHRtNAqsQMygAegUIARDBAQ",
+        "location": "https://www.google.com/maps/place/Santosh+Pakodawala/@21.105484,79.0939095,17z/data=!3m1!4b1!4m5!3m4!1s0x3bd4bf438b5ea17d:0xec8853554cdf8fa7!8m2!3d21.105484!4d79.0960982"
+    },
+
+
     {
         "id": 61,
         "placeOfOrigin": "India",
@@ -284,5 +298,6 @@
         "image": "https://www.google.com/maps/place/Hotel+Tambda+Pandhra/@16.7042808,74.2480372,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNgbAJbAMuhcwAkMgQ6LACPabPX2HmH-zdUepxU!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNgbAJbAMuhcwAkMgQ6LACPabPX2HmH-zdUepxU%3Dw114-h86-k-no!7i1280!8i960!4m5!3m4!1s0x3bc10046cf5db6e5:0xf19cf9780365889!8m2!3d16.7044112!4d74.2479733",
         "location": "https://www.google.com/maps/place/Hotel+Tambda+Pandhra/@16.7201773,74.2873921,12.25z/data=!4m12!1m6!3m5!1s0x3bc10046cf5db6e5:0xf19cf9780365889!2sHotel+Tambda+Pandhra!8m2!3d16.7044112!4d74.2479733!3m4!1s0x3bc10046cf5db6e5:0xf19cf9780365889!8m2!3d16.7044112!4d74.2479733"
      }
+
 
 ]
