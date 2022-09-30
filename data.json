@@ -111,7 +111,7 @@
     },
     
     {
-        "id": 18,
+        "id": 10,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "barshi",
@@ -121,9 +121,10 @@
         "rating": "4.5",
         "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
         "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
-    }
+
+    },
      {
-        "id": 19,
+        "id": 11,
         "placeOfOrigin": "India",
         "region": "Wardha",
         "city": "Wardha",
@@ -133,6 +134,21 @@
         "rating": "4.5",
         "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.vegrecipesofindia.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fraj-kachori-chaat-recipe-1.jpg&imgrefurl=https%3A%2F%2Fwww.vegrecipesofindia.com%2Fraj-kachori-recipe%2F&tbnid=W3fXuQJYP6KwNM&vet=12ahUKEwidxLHCjr36AhV5ntgFHQ6GCuIQMygBegUIARD1AQ..i&docid=sUMsim7ezSQ_MM&w=683&h=682&q=kachori%20chaat&ved=2ahUKEwidxLHCjr36AhV5ntgFHQ6GCuIQMygBegUIARD1AQ",
         "location": "https://goo.gl/maps/gP2k7eCxRcoTNFh89"
-     },
-    
+
+    },
+
+      {
+        "id": 12,
+        "placeOfOrigin": "India",
+        "region": "JAMMU",
+        "city": "JAMMU",
+        "food" : "RAJMA CHAwAL",
+        "type": "CURRY AND RICE",
+        "foodEnergy": "289 cal",
+        "rating": "4.2",
+        "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Punjabi_Rajma_Masala_Recipe_-_Rajma_Chawal_Spiced_Red_Kidney_Beans_Curry_4.jpg",
+        "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
+    }
+
+
 ]
