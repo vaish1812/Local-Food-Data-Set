@@ -196,6 +196,18 @@
         "rating": "3.9",
         "image": "https://www.google.com/maps/place/La+Pino'z+Pizza/@21.1482206,79.133641,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNty9sb4Jj9e_okwB4M6nvZYDEUUKIHbIHUYj0a%3Dw114-h86-k-no!7i4000!8i3000!4m5!3m4!1s0x3bd4c75d2ac83481:0xe69aadf67f9277!8m2!3d21.1483969!4d79.1336448",
         "location": "https://goo.gl/maps/39YATRMFLVSxkz5h7"
-     }
+     },
+    {
+        "id": 17,
+        "placeOfOrigin": "India",
+        "region": "Sangli",
+        "city": "Sangli",
+        "food" :"Vadapav",
+        "type": "Potatoes and bread",
+        "foodEnergy": "289 cal",
+        "rating": "4.6",
+        "image": "https://www.google.com/maps/place/%E0%B2%B5%E0%B2%BF%E0%B2%A8%E0%B2%BE%E0%B2%AF%E0%B2%95%E0%B3%8D+%E0%B2%A6%E0%B2%BE%E0%B2%AC%E0%B3%87%E0%B2%B2%E0%B2%BF./@16.8611356,74.5762979,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPayRciCj-40n7X6xZ1p2o2mlmN80MCEE4bJ68q!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPayRciCj-40n7X6xZ1p2o2mlmN80MCEE4bJ68q%3Dw114-h86-k-no!7i5664!8i4248!4m9!1m2!2m1!1ssangli+famous+vada+pav!3m5!1s0x3bc119f2b2b27a3d:0xd46e4274f59892fc!8m2!3d16.8611391!4d74.5763832!15sChZzYW5nbGkgZmFtb3VzIHZhZGEgcGF2WhgiFnNhbmdsaSBmYW1vdXMgdmFkYSBwYXaSARRmYXN0X2Zvb2RfcmVzdGF1cmFudOABAA?hl=kn",
+        "location": "https://www.google.com/maps/dir//%E0%B2%B5%E0%B2%BF%E0%B2%A8%E0%B2%BE%E0%B2%AF%E0%B2%95%E0%B3%8D+%E0%B2%A6%E0%B2%BE%E0%B2%AC%E0%B3%87%E0%B2%B2%E0%B2%BF.,+Rajaram+Plaza,+near+Hakke+Photo+Studio,+College+Corner,+North+Shivaji+Nagar,+Gokul+Nagar,+Sangli,+Maharashtra+416416/@16.8611391,74.5104652,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc119f2b2b27a3d:0xd46e4274f59892fc!2m2!1d74.5763832!2d16.8611391?hl=kn"
+    },
 
 ]
