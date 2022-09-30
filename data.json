@@ -109,9 +109,20 @@
         "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
         "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
     },
-    
-    {
+       {
         "id": 10,
+        "placeOfOrigin": "India",
+        "region": "Kolhapur",
+        "city": "Sangli",
+        "food" : "Bhadang, misalpav",
+        "type": "curry and bread",
+        "foodEnergy": "289 cal",
+        "rating": "4.2",
+        "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
+        "location": "https://g.page/misal-katta-and-cornor-crunch?share"
+    },
+    {
+        "id": 11,
         "placeOfOrigin": "India",
         "region": "Kolhapur",
         "city": "barshi",
@@ -124,7 +135,7 @@
 
     },
      {
-        "id": 11,
+        "id": 12,
         "placeOfOrigin": "India",
         "region": "Wardha",
         "city": "Wardha",
@@ -138,7 +149,7 @@
     },
 
       {
-        "id": 12,
+        "id": 13,
         "placeOfOrigin": "India",
         "region": "JAMMU",
         "city": "JAMMU",
@@ -150,7 +161,7 @@
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
     },
  {
-        "id": 13,
+        "id": 14,
         "placeOfOrigin": "India",
         "region": "JAMMU",
         "city": "kashmir",
@@ -162,7 +173,7 @@
         "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
     },
     {
-        "id": 14,
+        "id": 15,
         "placeOfOrigin": "India",
         "region": "Thane",
         "city": "Thane",
@@ -174,7 +185,7 @@
         "location": "https://www.eazydiner.com/mumbai/mamledar-misal-thane-west-222718/map"
     },
     {
-        "id": 15,
+        "id": 16,
         "placeOfOrigin": "India",
         "region": "",
         "city": "Pune",
@@ -186,7 +197,7 @@
         "location": "https://g.co/kgs/8NML1c"
      },
     {
-        "id": 16,
+        "id": 17,
         "placeOfOrigin": "India",
         "region": "Vidharbha",
         "city": "Nagpur",
