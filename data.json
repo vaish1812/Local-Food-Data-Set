@@ -35,18 +35,96 @@
         "rating": "4",
         "image": https://www.google.com/search?q=kasaba+bawada+misal&rlz=1C1FKPE_enIN974IN974&sxsrf=ALiCzsa5ZAKQoXHvJvkfY__neUOXQBE_Uw:1664557769837&source=lnms&tbm=isch&sa=X&ved=2ahUKEwii7ND0gL36AhViSXwKHUNhDeoQ_AUoA3oECAIQBQ&biw=1229&bih=571&dpr=1.56#imgrc=RTbmqkDyNTbXWM",
         "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
-    }
-        {
+
+    },
+     {
         "id": 4,
+        "placeOfOrigin": "India",
+        "region": "khandesh",
+        "city": "khandesh",
+        "food" : "Thalipeet",
+        "type": "Regional Food",
+        "foodEnergy": " 88 cal",
+        "rating": "4.5",
+        "image": "https://cdn.cdnparenting.com/articles/2020/03/07132448/Spring-Onion-Thalipeeth-Recipe.jpg"
+        "location": "https://goo.gl/maps/duWpNMbS3y5shGJ67"
+    },
+    {
+        "id": 5,
         "placeOfOrigin": "India",
         "region": "kolhapur",
         "city": "kolhapur",
         "food" : "ice cream",
         "type": "Street Food",
         "foodEnergy": "207 cal",
-        "rating": "4",
-        "image": https://www.google.com/search?q=kiga+ice+cream&tbm=isch&ved=2ahUKEwiMm5KOgb36AhVKj9gFHRNJAzQQ2-cCegQIABAA&oq=kiga+&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECCMQJzoECAAQHjoECAAQGDoHCCMQ6gIQJzoICAAQgAQQsQM6BAgAEEM6CwgAEIAEELEDEIMBUMISWOIjYLoyaAFwAHgAgAHcAYgBqgmSAQUwLjcuMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=_yI3Y8yfFMqe4t4Pk5KNoAM&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
-        "location": "https://goo.gl/maps/FMm9JT6nh79Dtb9K7"
+        "rating": "4"
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
+        "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
+     },
+     {
+        "id": 6,
+        "placeOfOrigin": "India",
+        "region": "Hinganghat",
+        "city": "Hinganghat",
+        "food" : "aloo finger",
+        "type": "Street Food",
+        "foodEnergy": "150 cal",
+        "rating": "4.5",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnishamadhulika.com%2Fen%2F1631-crispy-potato-fingers.html&psig=AOvVaw0aYuM1wbTuIAKyy2jS1VeT&ust=1664645192860000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDe7-GEvfoCFQAAAAAdAAAAABAD",
+        "location": "https://goo.gl/maps/FU95tJn2zx97zSk69"
+     },
+    
+     {
+        "id": 7,
+        "placeOfOrigin": "India",
+        "region": "solapur",
+        "city": "barshi",
+        "food" : "vadapav",
+        "type": "potato and besan",
+        "foodEnergy": "200 cal",
+        "rating": "4.5",
+        "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
+        "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
+    },
+    
+    {
+        "id": 8,
+        "placeOfOrigin": "India",
+        "region": "Kolhapur",
+        "city": "barshi",
+        "food" : "Rassa",
+        "type": "Mutton",
+        "foodEnergy": "200 cal",
+        "rating": "4.5",
+        "image": "https://www.gqindia.com/live-well/content/5-places-where-you-can-have-the-best-vada-pav-in-mumbai",
+        "location": "https://www.google.com/maps/place/Shree+Vithal+Vadapav(Bhatti+vadapaw)/@18.9996628,72.8546715,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf0382dd9307:0x65ac2b0eb586bd30!8m2!3d18.9996628!4d72.8568602"
+
+    },
+     {
+        "id": 9,
+        "placeOfOrigin": "India",
+        "region": "Wardha",
+        "city": "Wardha",
+        "food" : "kachori cha",
+        "type": "Street Food",
+        "foodEnergy": "200 cal",
+        "rating": "4.5",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.vegrecipesofindia.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fraj-kachori-chaat-recipe-1.jpg&imgrefurl=https%3A%2F%2Fwww.vegrecipesofindia.com%2Fraj-kachori-recipe%2F&tbnid=W3fXuQJYP6KwNM&vet=12ahUKEwidxLHCjr36AhV5ntgFHQ6GCuIQMygBegUIARD1AQ..i&docid=sUMsim7ezSQ_MM&w=683&h=682&q=kachori%20chaat&ved=2ahUKEwidxLHCjr36AhV5ntgFHQ6GCuIQMygBegUIARD1AQ",
+        "location": "https://goo.gl/maps/gP2k7eCxRcoTNFh89"
+
+    },
+
+      {
+        "id": 10,
+        "placeOfOrigin": "India",
+        "region": "JAMMU",
+        "city": "JAMMU",
+        "food" : "RAJMA CHAwAL",
+        "type": "CURRY AND RICE",
+        "foodEnergy": "289 cal",
+        "rating": "4.2",
+        "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Punjabi_Rajma_Masala_Recipe_-_Rajma_Chawal_Spiced_Red_Kidney_Beans_Curry_4.jpg",
+        "location": "https://curlytales.com/best-rajma-chawal-places-in-delhi/"
     }
 
 
