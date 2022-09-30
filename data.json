@@ -87,5 +87,17 @@
         "image": "https://www.google.com/search?q=kachori&tbm=isch&source=iu&ictx=1&vet=1&fir=RC-asdkr0RrXrM%252C2rlTdmSe7SsBeM%252C_%253B4GXjO5QOpcIzkM%252Cm_GvNtP75LwCgM%252C_%253Btds4Mu1IyaeoBM%252CcdG_QFiNUxTECM%252C_%253BPShwf_Auing2AM%252Ce-l5kKDEUhjxpM%252C_%253BxQXqZasjrmErIM%252CIWaHIFSZ8LIDbM%252C_%253B-1pXZ6knT3RLbM%252C9OSjwwubMjpvhM%252C_&usg=AI4_-kTMaQ3M323G5LhZS2hr1T0-JRoEKA&sa=X&ved=2ahUKEwiQgszFg736AhXD23MBHYb4AGYQ_h16BAheEAE#imgrc=tds4Mu1IyaeoBM",
         "location": "https://g.co/kgs/8NML1c"
     },
+    {
+        "id": 8,
+        "placeOfOrigin": "India",
+        "region": "South India",
+        "city": "Chennai",
+        "food" : "Idli",
+        "type": "Rice and Dal",
+        "foodEnergy": "33 cal",
+        "rating": "4.5",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Fcontentlab.studiod%2Fgetty%2F65b98aede4b147ae841c53125aefa01d.jpg&imgrefurl=https%3A%2F%2Fhealthyeating.sfgate.com%2Fnutrition-idli-2667.html&tbnid=OF6cfj9PhhcceM&vet=12ahUKEwjgqJ6aiL36AhXZi9gFHeJkDNQQMygIegUIARDOAQ..i&docid=njCM6ZLO1P1V6M&w=1700&h=1242&q=idli%20calories%20count&ved=2ahUKEwjgqJ6aiL36AhXZi9gFHeJkDNQQMygIegUIARDOAQ",
+        "location": "https://www.google.com/maps/dir/16.8541892,74.6049057/idli/@16.8525553,74.5900209,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc123425102b249:0x27ebef11b417f093!2m2!1d74.5951024!2d16.8452374"
+    },
     
 ]
