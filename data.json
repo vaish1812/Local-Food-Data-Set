@@ -88,4 +88,17 @@
         "location": "https://g.co/kgs/8NML1c"
     },
     
+    {
+        "id": 8,
+        "placeOfOrigin": "India",
+        "region": "Vidarbha",
+        "city": "Nagpur",
+        "food" : "Samosa",
+        "type": "Maida and Aloo",
+        "foodEnergy": "159 cal",
+        "rating": "4.5",
+        "image": "https://goo.gl/maps/KFTtGQ4WDbbR5etd8",
+        "location": "https://www.google.com/maps/place/Sanjay+Samosa+And+Nashta/@21.1312576,79.1141625,17z/data=!3m1!4b1!4m5!3m4!1s0x3bd4c7516e8ec949:0x827092f4d7e72557!8m2!3d21.1312526!4d79.1163512"
+    },
+    
 ]
