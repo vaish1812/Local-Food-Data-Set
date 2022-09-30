@@ -173,5 +173,31 @@
         "image": "https://d2r4vjqv0e4e2o.cloudfront.net/blog/wp-content/uploads/2019/05/30104436/sujata-mastani-in-pune.jpg",
         "location": "https://g.co/kgs/8NML1c"
      }
+    
+    {
+        "id": 9,
+        "placeOfOrigin": "India",
+        "region": "Kolhapur",
+        "city": "Sangli",
+        "food" : "matki pohe",
+        "type": "curry and poha",
+        "foodEnergy": "500 cal",
+        "rating": "5",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.tarladalal.com%2Fmembers%2F9306%2Fprocstepimgs%2Fsprouted-matki-poha-(17)-18-153468_hindi.jpg&imgrefurl=https%3A%2F%2Fwww.tarladalal.com%2Fsprouted-matki-poha-hindi-5682r&tbnid=9pJaJst2HVR7lM&vet=12ahUKEwiwkejAlb36AhU31HMBHbe8AVAQMygBegUIARDXAQ..i&docid=BcKPZwnAu0E5JM&w=750&h=562&q=matki%20pohe&ved=2ahUKEwiwkejAlb36AhU31HMBHbe8AVAQMygBegUIARDXAQ",
+        "location": "amruttulya tea sangali"
+    },
+
+    {
+        "id": 10,
+        "placeOfOrigin": "India",
+        "region": "Kolhapur",
+        "city": "ichalkarnji",
+        "food" : "kat wada",
+        "type": "curry and wada",
+        "foodEnergy": "250 cal",
+        "rating": "4.5",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmadhurasrecipe.com%2Fwp-content%2Fuploads%2F2019%2F09%2FKat-Vada-Featured.jpg&imgrefurl=https%3A%2F%2Fmadhurasrecipe.com%2Fsnacks%2Fkat-vada%2F&tbnid=uGi0N-NmL4LBuM&vet=12ahUKEwie9J6Dlr36AhWi9nMBHa7iCBcQMygBegUIARDWAQ..i&docid=Np8gYJCx04tUxM&w=1080&h=720&q=kat%20wada&ved=2ahUKEwie9J6Dlr36AhWi9nMBHa7iCBcQMygBegUIARDWAQ",
+        "location": "https://www.google.com/maps/place/Ambika+Kat-vada/@16.6931379,74.2411892,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc1003dc76d4fdf:0x82fb585e9c6bb2c2!8m2!3d16.693151!4d74.2433748?hl=en"
+    },
 
 ]
