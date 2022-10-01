@@ -998,7 +998,20 @@
 
     },
     {
-        "id": 81,
+
+        "id" : 81,
+        "placeOfOrigin": "India",
+        "region": "Hyderabad",
+        "city": "Hyderabad",
+        "food" : "Hyderabadi Biryani",
+        "type": "Rice, Mutton, Chicken, Spices",
+        "foodEnergy": "580 cal",
+        "rating": "4.5",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hyderabadi_Chicken_Biryani.jpg/375px-Hyderabadi_Chicken_Biryani.jpg",
+        "location" : "https://goo.gl/maps/meHMzUA8btDFmWrB8"
+    },
+    {
+        "id": 82,
         "placeOfOrigin": "India",
         "region": "South India",
         "city": "Chennai",
