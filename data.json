@@ -1046,5 +1046,16 @@
         "image": "https://aahaaramonline.com/tarri-poha-from-nagpur/",
         "location": "https://www.google.com/maps/place/Saburi+Tarri+Poha+Misal+Centre/@21.1445771,79.0939083,17z/data=!3m1!4b1!4m5!3m4!1s0x3bd4c0b865c3174d:0x28b62eca0ea8bcf1!8m2!3d21.1445974!4d79.0960986?hl=en-GB"
     },
-]
 
+ {
+	"id": 85,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Kolhapur",
+        "food" : "Misal Pav",
+        "type": "Breakfast",
+        "foodEnergy": "289 cal",
+        "rating": "4",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fmisal-pav.html&psig=AOvVaw0t5MhG1LXH-AF_nG5mmbSq&ust=1664734543318000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDC4cfRv_oCFQAAAAAdAAAAABAE",
+        "location": "https://www.tripadvisor.in/ShowUserReviews-g304554-d8053237-r321806326-Shree_Datta_Snacks_and_Sweets-Mumbai_Maharashtra.html "
+    },
