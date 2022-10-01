@@ -906,6 +906,19 @@
         "rating": "4.2",
         "image": "https://www.bing.com/images/search?view=detailV2&ccid=yi285z%2bp&id=A8CF4A488254205D6104828E0010C11211F2D111&thid=OIP.yi285z-pb6yvpuNUNzgpNgHaF8&mediaurl=https%3a%2f%2fwww.desiblitz.com%2fwp-content%2fuploads%2f2019%2f10%2f7-Delicious-Types-of-Dhokla-to-Make-at-Home-chana.jpg&exph=550&expw=685&q=dhokla&simid=608030725219435480&FORM=IRPRST&ck=998BA20F11D0D1DE74FBB6E3EAAA4322&selectedIndex=0",
         "location": "https://goo.gl/maps/vZ5e9puxWwNjU3CMA"
-    }
+    },
+    {
+        "id": 73,
+        "placeOfOrigin": "India",
+        "region": "Kolhapur",
+        "city": "Sangli",
+        "food" : "Khandoli",
+        "type": "sandwitch",
+        "foodEnergy": "289 cal",
+        "rating": "4.2",
+        "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
+        "location": "https://g.page/khandoli"
+    },
+
 ]
 
