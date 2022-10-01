@@ -994,6 +994,18 @@
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cookwithmanali.com%2Fghevar-how-to-make-ghevar%2F&psig=AOvVaw1EHQDdPhbS-ceiTEJ4Bv_S&ust=1664694232965000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjo37W7vvoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/vZ5e9puxWwNjU3CMA"
 
+    },
+    {
+        "id" : 81,
+        "placeOfOrigin": "India",
+        "region": "Hyderabad",
+        "city": "Hyderabad",
+        "food" : "Hyderabadi Biryani",
+        "type": "Rice, Mutton, Chicken, Spices",
+        "foodEnergy": "580 cal",
+        "rating": "4.5",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hyderabadi_Chicken_Biryani.jpg/375px-Hyderabadi_Chicken_Biryani.jpg",
+        "location" : "https://goo.gl/maps/meHMzUA8btDFmWrB8"
     }
 
 ]
