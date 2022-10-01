@@ -966,7 +966,7 @@
         "location": "https://g.page/khandoli"
     },
     {
-        "id": 1,
+        "id": 74,
         "placeOfOrigin": "India",
         "region": "Nagpur",
         "city": "Nagpur",
@@ -977,6 +977,18 @@
         "image": "https://www.bing.com/images/search?view=detailV2&ccid=pdM52MPm&id=73C527CD30834C60D1EC79B2F74D336BB1CF1A41&thid=OIP.pdM52MPm2Z_xzVQ7ls8E3AHaEK&mediaurl=https%3a%2f%2fwww.cookingwithsiddhi.com%2fwp-content%2fuploads%2f2017%2f10%2fkaju-katli-thumbnail.png&exph=720&expw=1280&q=kajukatli+recipipe+phot0&simid=608049150620690128&FORM=IRPRST&ck=B8974393FDB000CDA8F5E6D540BB0664&selectedIndex=7",
         "location": "https://goo.gl/maps/vZ5e9puxWwNjU3CMA"
     },
+    {
+        "id": 75,
+        "placeOfOrigin": "India",
+        "region": "Mumbai",
+        "city": "Nagpur",
+        "food" : "Ghevar",
+        "type": "Sweet",
+        "foodEnergy": "389 cal",
+        "rating": "4.3",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cookwithmanali.com%2Fghevar-how-to-make-ghevar%2F&psig=AOvVaw1EHQDdPhbS-ceiTEJ4Bv_S&ust=1664694232965000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjo37W7vvoCFQAAAAAdAAAAABAD",
+        "location": "https://goo.gl/maps/vZ5e9puxWwNjU3CMA"
+    }
 
 ]
 
