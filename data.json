@@ -1035,7 +1035,7 @@
         "location": "https://www.google.com/maps/dir/16.8541892,74.6049057/shri+krishna+batata+vada+dadar+location/@18.040775,72.6173321,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7cedba75eec3f:0xd1df19698df86efb!2m2!1d72.8425278!2d19.0202608?hl=en"
     },
 	{
-        "id": 83,
+        "id": 84,
         "placeOfOrigin": "India",
         "region": "sitabuldi",
         "city": "Nagpur",
@@ -1047,7 +1047,7 @@
         "location": "https://www.google.com/maps/place/Sitabuldi,+Nagpur,+Maharashtra/@21.1462969,79.0765679,15z/data=!3m1!4b1!4m5!3m4!1s0x3bd4c0952bd995c7:0x9fc6471dada94ffa!8m2!3d21.1429916!4d79.0871102?hl=en-GB"
     },
     {
-	"id": 84,
+	"id": 85,
         "placeOfOrigin": "India",
         "region": "Vidharbha",
         "city": "Nagpur",
@@ -1059,7 +1059,7 @@
         "location": "https://www.google.com/maps/place/Saburi+Tarri+Poha+Misal+Centre/@21.1445771,79.0939083,17z/data=!3m1!4b1!4m5!3m4!1s0x3bd4c0b865c3174d:0x28b62eca0ea8bcf1!8m2!3d21.1445974!4d79.0960986?hl=en-GB"
     },
 {
-        "id": 85,
+        "id": 86,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Pune",
@@ -1071,7 +1071,7 @@
         "location": "https://www.whatshot.in/mumbai/maharashtras-first-puran-poli-house-c-31313"
     },
  {
-	"id": 86,
+	"id": 87,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Kolhapur",
@@ -1083,44 +1083,20 @@
         "location": "https://www.tripadvisor.in/ShowUserReviews-g304554-d8053237-r321806326-Shree_Datta_Snacks_and_Sweets-Mumbai_Maharashtra.html "
     },
 	{
-		"id": 88,
-		"placeOfOrigin": "India",
+	"id": 88,
+	"placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Satara",
         "food" : "Vada paav",
         "type": "Breakfast",
         "foodEnergy": "355 cal",
         "rating": "4.9",
-        "image": "https://www.istockphoto.com/photo/vada-pav-gm1329213718-413026659?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fvada-pav&utm_term=vada%20pav%3A%3A%3A"
+        "image": "https://www.istockphoto.com/photo/vada-pav-gm1329213718-413026659?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fvada-pav&utm_term=vada%20pav%3A%3A%3A",
         
-"location":"https://maps.app.goo.gl/KyBLCV2qCwijAVaR9"
+        "location":"https://maps.app.goo.gl/KyBLCV2qCwijAVaR9"
 
 
 
     
-	},
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
+	}	
 ]
