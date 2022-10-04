@@ -1083,16 +1083,44 @@
         "location": "https://www.tripadvisor.in/ShowUserReviews-g304554-d8053237-r321806326-Shree_Datta_Snacks_and_Sweets-Mumbai_Maharashtra.html "
     },
 	{
-		"id": 87,
+		"id": 88,
 		"placeOfOrigin": "India",
-        "region": "Madhya Pradesh",
-        "city": "Indore",
-        "food" : "Indoori Poha",
+        "region": "Maharashtra",
+        "city": "Satara",
+        "food" : "Vada paav",
         "type": "Breakfast",
         "foodEnergy": "355 cal",
         "rating": "4.9",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Poha.jpg/375px-Poha.jpg",
-        "location": "https://jabalpur.nic.in/en/culinary-delight/poha-jalebi/"
+        "image": "https://www.istockphoto.com/photo/vada-pav-gm1329213718-413026659?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fvada-pav&utm_term=vada%20pav%3A%3A%3A"
+        
+"location":"https://maps.app.goo.gl/KyBLCV2qCwijAVaR9"
+
+
+
     
-	}
+	},
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
 ]
