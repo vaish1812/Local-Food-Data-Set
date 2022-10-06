@@ -1110,5 +1110,17 @@
         "rating": "4.6",
         "Video": "https://www.instagram.com/reel/CZdrDNeFLBz/?utm_source=ig_embed&ig_rid=c31e86b0-9378-4cf5-95fe-9404fc6f0115",
         "location": "https://www.google.com/maps/dir//Manchurian+King,+near+Antara+Jewellery,+Opposite+Ranjeet+Studio,+Dadar+East,+Dadar,+Mumbai,+Maharashtra+400014/"
+    },
+    {
+        "id": 90,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Mumbai",
+        "food" : "vadapav",
+        "type": "Bread",
+        "foodEnergy": "350 cal",
+        "rating": "5",
+        "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
+        "location": "https://www.justdial.com/Solapur/Solapur-Vada-Pav-Near-Sangameswar-College-Solapur-HO/9999PX217-X217-170304171018-J6Q8_BZDET"
     }
 ]
