@@ -1131,6 +1131,7 @@
         "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
         "location": "https://www.justdial.com/Solapur/Solapur-Vada-Pav-Near-Sangameswar-College-Solapur-HO/9999PX217-X217-170304171018-J6Q8_BZDET"
     },
+
     {
         "id": 92,
         "placeOfOrigin": "India",
@@ -1142,5 +1143,29 @@
         "rating": "5",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/2_Chapati_warm_and_ready_to_be_eaten.jpg",
         "location": "https://www.justdial.com/Pune/Chapati-Suppliers/nct-10940218"
+    },
+{
+        "id": 93,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Pune",
+        "food" : "Puranpoli",
+        "type": "Bread",
+        "foodEnergy": "291 cal",
+        "rating": "5",
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/09/puran-poli-recipe.jpg",
+        "location": "https://goo.gl/maps/idw1uF7JiSSocviV9"
+},
+    {
+        "id": 94,
+        "placeOfOrigin": "India",
+        "region": "Rajasthan",
+        "city": "Jaipur",
+        "food" : "Dal Batti",
+        "type": "lunch and dinner",
+        "foodEnergy": "302 cal",
+        "rating": "5",
+        "image": "https://www.secondrecipe.com/wp-content/uploads/2020/11/dal-bati-churma.jpg",
+        "location": "https://www.whatshot.in/pune/dal-baati-pune-c-12183T"
     }
 ]
