@@ -1167,5 +1167,17 @@
         "rating": "5",
         "image": "https://www.secondrecipe.com/wp-content/uploads/2020/11/dal-bati-churma.jpg",
         "location": "https://www.whatshot.in/pune/dal-baati-pune-c-12183T"
-    }
+    },
+    {
+        "id": 95,
+        "placeOfOrigin": "India",
+        "region": "Gujarat",
+        "city": "Gandhinagar",
+        "food" : "Dhokla",
+        "type": "Dhokla",
+        "foodEnergy": "81 cal",
+        "rating": "5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Food-Dhokla.jpg/1200px-Food-Dhokla.jpg",
+        "location": "https://goo.gl/maps/ydLaxy4JW6o8HY7C7"
+    },
 ]
