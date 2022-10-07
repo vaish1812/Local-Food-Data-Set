@@ -1130,5 +1130,17 @@
         "rating": "5",
         "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
         "location": "https://www.justdial.com/Solapur/Solapur-Vada-Pav-Near-Sangameswar-College-Solapur-HO/9999PX217-X217-170304171018-J6Q8_BZDET"
+    },
+    {
+        "id": 92,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Mumbai",
+        "food" : "Chapati",
+        "type": "Bread",
+        "foodEnergy": "350 cal",
+        "rating": "5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/2_Chapati_warm_and_ready_to_be_eaten.jpg",
+        "location": "https://www.justdial.com/Pune/Chapati-Suppliers/nct-10940218"
     }
 ]
