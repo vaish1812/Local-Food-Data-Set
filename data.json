@@ -1091,13 +1091,9 @@
         "type": "Breakfast",
         "foodEnergy": "355 cal",
         "rating": "4.9",
-        "image": "https://www.istockphoto.com/photo/vada-pav-gm1329213718-413026659?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fvada-pav&utm_term=vada%20pav%3A%3A%3A",
-        
+        "image": "https://www.istockphoto.com/photo/vada-pav-gm1329213718-413026659?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fvada-pav&utm_term=vada%20pav%3A%3A%3A",    
         "location":"https://maps.app.goo.gl/KyBLCV2qCwijAVaR9"
 
-
-
-    
 	},	
 	{
         "id": 89,
@@ -1110,9 +1106,21 @@
         "rating": "4.6",
         "Video": "https://www.instagram.com/reel/CZdrDNeFLBz/?utm_source=ig_embed&ig_rid=c31e86b0-9378-4cf5-95fe-9404fc6f0115",
         "location": "https://www.google.com/maps/dir//Manchurian+King,+near+Antara+Jewellery,+Opposite+Ranjeet+Studio,+Dadar+East,+Dadar,+Mumbai,+Maharashtra+400014/"
+    }, 
+	{
+	 "id": 90,
+        "placeOfOrigin": "India",
+        "region": "Telangana",
+        "city": "Hyderabad",
+        "food" : "Chicken Tatka Biryani",
+        "type": "Lunch and Dinner" ,
+        "foodEnergy": "511 cal",
+        "rating": "4.8",
+        "image": "http://www.tasty-indian-recipes.com/wp-content/uploads/2014/07/Chicken-Tikka-Biryani.jpg", 
+        "location": "https://maps.app.goo.gl/ZyUVMxiYQCQTuBGV9"
     },
     {
-        "id": 90,
+        "id": 91,
         "placeOfOrigin": "India",
         "region": "Maharashtra",
         "city": "Mumbai",
