@@ -1179,5 +1179,17 @@
         "rating": "5",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Food-Dhokla.jpg/1200px-Food-Dhokla.jpg",
         "location": "https://goo.gl/maps/ydLaxy4JW6o8HY7C7"
+    },
+	{
+        "id": 96,
+        "placeOfOrigin": "India",
+        "region": "Nagpur",
+        "city": "Nagpur",
+        "food" : "Poha",
+        "type": "Poha",
+        "foodEnergy": "50 cal",
+        "rating": "5",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fpoha-recipe-kanda-batata-poha%2F&psig=AOvVaw1hnJyr53gUXtfVBw5a3r1q&ust=1665291778195000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjr_7ftz_oCFQAAAAAdAAAAABAE",
+        "location": "https://www.google.com/maps/place/Nagpur,+Maharashtra/@21.1610282,78.9324241,11z/data=!3m1!4b1!4m5!3m4!1s0x3bd4c0a5a31faf13:0x19b37d06d0bb3e2b!8m2!3d21.1458004!4d79.0881546?hl=en-GB"
     }
 ]
